@@ -1,0 +1,580 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>ibi prelim.html</title>
+
+<base target="_blank"/>
+
+<style type="text/css">
+body, td {
+   font-family: sans-serif;
+   background-color: white;
+   font-size: 12px;
+   margin: 8px;
+}
+
+tt, code, pre {
+   font-family: 'DejaVu Sans Mono', 'Droid Sans Mono', 'Lucida Console', Consolas, Monaco, monospace;
+}
+
+h1 { 
+   font-size:2.2em; 
+}
+
+h2 { 
+   font-size:1.8em; 
+}
+
+h3 { 
+   font-size:1.4em; 
+}
+
+h4 { 
+   font-size:1.0em; 
+}
+
+h5 { 
+   font-size:0.9em; 
+}
+
+h6 { 
+   font-size:0.8em; 
+}
+
+a:visited {
+   color: rgb(50%, 0%, 50%);
+}
+
+pre {	
+   margin-top: 0;
+   max-width: 95%;
+   border: 1px solid #ccc;
+}
+
+pre code {
+   display: block; padding: 0.5em;
+}
+
+code.r {
+   background-color: #F8F8F8;
+}
+
+table, td, th {
+  border: none;
+}
+
+blockquote {
+   color:#666666;
+   margin:0;
+   padding-left: 1em;
+   border-left: 0.5em #EEE solid;
+}
+
+hr {
+   height: 0px;
+   border-bottom: none;
+   border-top-width: thin;
+   border-top-style: dotted;
+   border-top-color: #999999;
+}
+
+@media print {
+   * { 
+      background: transparent !important; 
+      color: black !important; 
+      filter:none !important; 
+      -ms-filter: none !important; 
+   }
+
+   body { 
+      font-size:12pt; 
+      max-width:100%; 
+   }
+       
+   a, a:visited { 
+      text-decoration: underline; 
+   }
+
+   hr { 
+      visibility: hidden;
+      page-break-before: always;
+   }
+
+   pre, blockquote { 
+      padding-right: 1em; 
+      page-break-inside: avoid; 
+   }
+
+   tr, img { 
+      page-break-inside: avoid; 
+   }
+
+   img { 
+      max-width: 100% !important; 
+   }
+
+   @page :left { 
+      margin: 15mm 20mm 15mm 10mm; 
+   }
+     
+   @page :right { 
+      margin: 15mm 10mm 15mm 20mm; 
+   }
+
+   p, h2, h3 { 
+      orphans: 3; widows: 3; 
+   }
+
+   h2, h3 { 
+      page-break-after: avoid; 
+   }
+}
+
+</style>
+
+<!-- Styles for R syntax highlighter -->
+<style type="text/css">
+   pre .operator,
+   pre .paren {
+     color: rgb(104, 118, 135)
+   }
+
+   pre .literal {
+     color: rgb(88, 72, 246)
+   }
+
+   pre .number {
+     color: rgb(0, 0, 205);
+   }
+
+   pre .comment {
+     color: rgb(76, 136, 107);
+   }
+
+   pre .keyword {
+     color: rgb(0, 0, 255);
+   }
+
+   pre .identifier {
+     color: rgb(0, 0, 0);
+   }
+
+   pre .string {
+     color: rgb(3, 106, 7);
+   }
+</style>
+
+<!-- R syntax highlighter -->
+<script type="text/javascript">
+var hljs=new function(){function m(p){return p.replace(/&/gm,"&amp;").replace(/</gm,"&lt;")}function f(r,q,p){return RegExp(q,"m"+(r.cI?"i":"")+(p?"g":""))}function b(r){for(var p=0;p<r.childNodes.length;p++){var q=r.childNodes[p];if(q.nodeName=="CODE"){return q}if(!(q.nodeType==3&&q.nodeValue.match(/\s+/))){break}}}function h(t,s){var p="";for(var r=0;r<t.childNodes.length;r++){if(t.childNodes[r].nodeType==3){var q=t.childNodes[r].nodeValue;if(s){q=q.replace(/\n/g,"")}p+=q}else{if(t.childNodes[r].nodeName=="BR"){p+="\n"}else{p+=h(t.childNodes[r])}}}if(/MSIE [678]/.test(navigator.userAgent)){p=p.replace(/\r/g,"\n")}return p}function a(s){var r=s.className.split(/\s+/);r=r.concat(s.parentNode.className.split(/\s+/));for(var q=0;q<r.length;q++){var p=r[q].replace(/^language-/,"");if(e[p]){return p}}}function c(q){var p=[];(function(s,t){for(var r=0;r<s.childNodes.length;r++){if(s.childNodes[r].nodeType==3){t+=s.childNodes[r].nodeValue.length}else{if(s.childNodes[r].nodeName=="BR"){t+=1}else{if(s.childNodes[r].nodeType==1){p.push({event:"start",offset:t,node:s.childNodes[r]});t=arguments.callee(s.childNodes[r],t);p.push({event:"stop",offset:t,node:s.childNodes[r]})}}}}return t})(q,0);return p}function k(y,w,x){var q=0;var z="";var s=[];function u(){if(y.length&&w.length){if(y[0].offset!=w[0].offset){return(y[0].offset<w[0].offset)?y:w}else{return w[0].event=="start"?y:w}}else{return y.length?y:w}}function t(D){var A="<"+D.nodeName.toLowerCase();for(var B=0;B<D.attributes.length;B++){var C=D.attributes[B];A+=" "+C.nodeName.toLowerCase();if(C.value!==undefined&&C.value!==false&&C.value!==null){A+='="'+m(C.value)+'"'}}return A+">"}while(y.length||w.length){var v=u().splice(0,1)[0];z+=m(x.substr(q,v.offset-q));q=v.offset;if(v.event=="start"){z+=t(v.node);s.push(v.node)}else{if(v.event=="stop"){var p,r=s.length;do{r--;p=s[r];z+=("</"+p.nodeName.toLowerCase()+">")}while(p!=v.node);s.splice(r,1);while(r<s.length){z+=t(s[r]);r++}}}}return z+m(x.substr(q))}function j(){function q(x,y,v){if(x.compiled){return}var u;var s=[];if(x.k){x.lR=f(y,x.l||hljs.IR,true);for(var w in x.k){if(!x.k.hasOwnProperty(w)){continue}if(x.k[w] instanceof Object){u=x.k[w]}else{u=x.k;w="keyword"}for(var r in u){if(!u.hasOwnProperty(r)){continue}x.k[r]=[w,u[r]];s.push(r)}}}if(!v){if(x.bWK){x.b="\\b("+s.join("|")+")\\s"}x.bR=f(y,x.b?x.b:"\\B|\\b");if(!x.e&&!x.eW){x.e="\\B|\\b"}if(x.e){x.eR=f(y,x.e)}}if(x.i){x.iR=f(y,x.i)}if(x.r===undefined){x.r=1}if(!x.c){x.c=[]}x.compiled=true;for(var t=0;t<x.c.length;t++){if(x.c[t]=="self"){x.c[t]=x}q(x.c[t],y,false)}if(x.starts){q(x.starts,y,false)}}for(var p in e){if(!e.hasOwnProperty(p)){continue}q(e[p].dM,e[p],true)}}function d(B,C){if(!j.called){j();j.called=true}function q(r,M){for(var L=0;L<M.c.length;L++){if((M.c[L].bR.exec(r)||[null])[0]==r){return M.c[L]}}}function v(L,r){if(D[L].e&&D[L].eR.test(r)){return 1}if(D[L].eW){var M=v(L-1,r);return M?M+1:0}return 0}function w(r,L){return L.i&&L.iR.test(r)}function K(N,O){var M=[];for(var L=0;L<N.c.length;L++){M.push(N.c[L].b)}var r=D.length-1;do{if(D[r].e){M.push(D[r].e)}r--}while(D[r+1].eW);if(N.i){M.push(N.i)}return f(O,M.join("|"),true)}function p(M,L){var N=D[D.length-1];if(!N.t){N.t=K(N,E)}N.t.lastIndex=L;var r=N.t.exec(M);return r?[M.substr(L,r.index-L),r[0],false]:[M.substr(L),"",true]}function z(N,r){var L=E.cI?r[0].toLowerCase():r[0];var M=N.k[L];if(M&&M instanceof Array){return M}return false}function F(L,P){L=m(L);if(!P.k){return L}var r="";var O=0;P.lR.lastIndex=0;var M=P.lR.exec(L);while(M){r+=L.substr(O,M.index-O);var N=z(P,M);if(N){x+=N[1];r+='<span class="'+N[0]+'">'+M[0]+"</span>"}else{r+=M[0]}O=P.lR.lastIndex;M=P.lR.exec(L)}return r+L.substr(O,L.length-O)}function J(L,M){if(M.sL&&e[M.sL]){var r=d(M.sL,L);x+=r.keyword_count;return r.value}else{return F(L,M)}}function I(M,r){var L=M.cN?'<span class="'+M.cN+'">':"";if(M.rB){y+=L;M.buffer=""}else{if(M.eB){y+=m(r)+L;M.buffer=""}else{y+=L;M.buffer=r}}D.push(M);A+=M.r}function G(N,M,Q){var R=D[D.length-1];if(Q){y+=J(R.buffer+N,R);return false}var P=q(M,R);if(P){y+=J(R.buffer+N,R);I(P,M);return P.rB}var L=v(D.length-1,M);if(L){var O=R.cN?"</span>":"";if(R.rE){y+=J(R.buffer+N,R)+O}else{if(R.eE){y+=J(R.buffer+N,R)+O+m(M)}else{y+=J(R.buffer+N+M,R)+O}}while(L>1){O=D[D.length-2].cN?"</span>":"";y+=O;L--;D.length--}var r=D[D.length-1];D.length--;D[D.length-1].buffer="";if(r.starts){I(r.starts,"")}return R.rE}if(w(M,R)){throw"Illegal"}}var E=e[B];var D=[E.dM];var A=0;var x=0;var y="";try{var s,u=0;E.dM.buffer="";do{s=p(C,u);var t=G(s[0],s[1],s[2]);u+=s[0].length;if(!t){u+=s[1].length}}while(!s[2]);if(D.length>1){throw"Illegal"}return{r:A,keyword_count:x,value:y}}catch(H){if(H=="Illegal"){return{r:0,keyword_count:0,value:m(C)}}else{throw H}}}function g(t){var p={keyword_count:0,r:0,value:m(t)};var r=p;for(var q in e){if(!e.hasOwnProperty(q)){continue}var s=d(q,t);s.language=q;if(s.keyword_count+s.r>r.keyword_count+r.r){r=s}if(s.keyword_count+s.r>p.keyword_count+p.r){r=p;p=s}}if(r.language){p.second_best=r}return p}function i(r,q,p){if(q){r=r.replace(/^((<[^>]+>|\t)+)/gm,function(t,w,v,u){return w.replace(/\t/g,q)})}if(p){r=r.replace(/\n/g,"<br>")}return r}function n(t,w,r){var x=h(t,r);var v=a(t);var y,s;if(v){y=d(v,x)}else{return}var q=c(t);if(q.length){s=document.createElement("pre");s.innerHTML=y.value;y.value=k(q,c(s),x)}y.value=i(y.value,w,r);var u=t.className;if(!u.match("(\\s|^)(language-)?"+v+"(\\s|$)")){u=u?(u+" "+v):v}if(/MSIE [678]/.test(navigator.userAgent)&&t.tagName=="CODE"&&t.parentNode.tagName=="PRE"){s=t.parentNode;var p=document.createElement("div");p.innerHTML="<pre><code>"+y.value+"</code></pre>";t=p.firstChild.firstChild;p.firstChild.cN=s.cN;s.parentNode.replaceChild(p.firstChild,s)}else{t.innerHTML=y.value}t.className=u;t.result={language:v,kw:y.keyword_count,re:y.r};if(y.second_best){t.second_best={language:y.second_best.language,kw:y.second_best.keyword_count,re:y.second_best.r}}}function o(){if(o.called){return}o.called=true;var r=document.getElementsByTagName("pre");for(var p=0;p<r.length;p++){var q=b(r[p]);if(q){n(q,hljs.tabReplace)}}}function l(){if(window.addEventListener){window.addEventListener("DOMContentLoaded",o,false);window.addEventListener("load",o,false)}else{if(window.attachEvent){window.attachEvent("onload",o)}else{window.onload=o}}}var e={};this.LANGUAGES=e;this.highlight=d;this.highlightAuto=g;this.fixMarkup=i;this.highlightBlock=n;this.initHighlighting=o;this.initHighlightingOnLoad=l;this.IR="[a-zA-Z][a-zA-Z0-9_]*";this.UIR="[a-zA-Z_][a-zA-Z0-9_]*";this.NR="\\b\\d+(\\.\\d+)?";this.CNR="\\b(0[xX][a-fA-F0-9]+|(\\d+(\\.\\d*)?|\\.\\d+)([eE][-+]?\\d+)?)";this.BNR="\\b(0b[01]+)";this.RSR="!|!=|!==|%|%=|&|&&|&=|\\*|\\*=|\\+|\\+=|,|\\.|-|-=|/|/=|:|;|<|<<|<<=|<=|=|==|===|>|>=|>>|>>=|>>>|>>>=|\\?|\\[|\\{|\\(|\\^|\\^=|\\||\\|=|\\|\\||~";this.ER="(?![\\s\\S])";this.BE={b:"\\\\.",r:0};this.ASM={cN:"string",b:"'",e:"'",i:"\\n",c:[this.BE],r:0};this.QSM={cN:"string",b:'"',e:'"',i:"\\n",c:[this.BE],r:0};this.CLCM={cN:"comment",b:"//",e:"$"};this.CBLCLM={cN:"comment",b:"/\\*",e:"\\*/"};this.HCM={cN:"comment",b:"#",e:"$"};this.NM={cN:"number",b:this.NR,r:0};this.CNM={cN:"number",b:this.CNR,r:0};this.BNM={cN:"number",b:this.BNR,r:0};this.inherit=function(r,s){var p={};for(var q in r){p[q]=r[q]}if(s){for(var q in s){p[q]=s[q]}}return p}}();hljs.LANGUAGES.r={dM:{c:[hljs.HCM,{cN:"number",b:"\\b0[xX][0-9a-fA-F]+[Li]?\\b",e:hljs.IMMEDIATE_RE,r:0},{cN:"number",b:"\\b\\d+(?:[eE][+\\-]?\\d*)?L\\b",e:hljs.IMMEDIATE_RE,r:0},{cN:"number",b:"\\b\\d+\\.(?!\\d)(?:i\\b)?",e:hljs.IMMEDIATE_RE,r:1},{cN:"number",b:"\\b\\d+(?:\\.\\d*)?(?:[eE][+\\-]?\\d*)?i?\\b",e:hljs.IMMEDIATE_RE,r:0},{cN:"number",b:"\\.\\d+(?:[eE][+\\-]?\\d*)?i?\\b",e:hljs.IMMEDIATE_RE,r:1},{cN:"keyword",b:"(?:tryCatch|library|setGeneric|setGroupGeneric)\\b",e:hljs.IMMEDIATE_RE,r:10},{cN:"keyword",b:"\\.\\.\\.",e:hljs.IMMEDIATE_RE,r:10},{cN:"keyword",b:"\\.\\.\\d+(?![\\w.])",e:hljs.IMMEDIATE_RE,r:10},{cN:"keyword",b:"\\b(?:function)",e:hljs.IMMEDIATE_RE,r:2},{cN:"keyword",b:"(?:if|in|break|next|repeat|else|for|return|switch|while|try|stop|warning|require|attach|detach|source|setMethod|setClass)\\b",e:hljs.IMMEDIATE_RE,r:1},{cN:"literal",b:"(?:NA|NA_integer_|NA_real_|NA_character_|NA_complex_)\\b",e:hljs.IMMEDIATE_RE,r:10},{cN:"literal",b:"(?:NULL|TRUE|FALSE|T|F|Inf|NaN)\\b",e:hljs.IMMEDIATE_RE,r:1},{cN:"identifier",b:"[a-zA-Z.][a-zA-Z0-9._]*\\b",e:hljs.IMMEDIATE_RE,r:0},{cN:"operator",b:"<\\-(?!\\s*\\d)",e:hljs.IMMEDIATE_RE,r:2},{cN:"operator",b:"\\->|<\\-",e:hljs.IMMEDIATE_RE,r:1},{cN:"operator",b:"%%|~",e:hljs.IMMEDIATE_RE},{cN:"operator",b:">=|<=|==|!=|\\|\\||&&|=|\\+|\\-|\\*|/|\\^|>|<|!|&|\\||\\$|:",e:hljs.IMMEDIATE_RE,r:0},{cN:"operator",b:"%",e:"%",i:"\\n",r:1},{cN:"identifier",b:"`",e:"`",r:0},{cN:"string",b:'"',e:'"',c:[hljs.BE],r:0},{cN:"string",b:"'",e:"'",c:[hljs.BE],r:0},{cN:"paren",b:"[[({\\])}]",e:hljs.IMMEDIATE_RE,r:0}]}};
+hljs.initHighlightingOnLoad();
+</script>
+
+
+
+
+</head>
+
+<body>
+<!-- Automatically generated by RStudio [12861c30b10411e1afa60800200c9a66] -->
+
+<h3>ibi prelim.html</h3>
+
+<p><em>Jul 20, 2012, 2:58 PM</em></p>
+
+<pre><code class="r">###scripts###
+source(&quot;ibi_misc.r&quot;)
+
+###Import Data###
+data &lt;- read.csv(&quot;BMI.csv&quot;)
+colnames(data)[1] &lt;- &quot;SampleID&quot;
+data$SampleID &lt;- as.factor(data$SampleID)
+data &lt;- data[!is.na(data$BAResult), ]
+data &lt;- data[!is.na(data$FinalID), ]
+
+###Fix non-matches###
+data$FinalID &lt;- as.character(data$FinalID)
+data[data$FinalID == &quot;Simocephalus sp.&quot;, &quot;FinalID&quot;] &lt;- &quot;Simocephalus&quot;
+data[data$FinalID == &quot;Alona sp.&quot;, &quot;FinalID&quot;] &lt;- &quot;Alona&quot;
+data[data$FinalID == &quot;Ceriodaphnia sp.&quot;, &quot;FinalID&quot;] &lt;- &quot;Ceriodaphnia&quot;
+data[data$FinalID == &quot;Ilyocryptus sp.&quot;, &quot;FinalID&quot;] &lt;- &quot;Ilyocryptus&quot;
+data[data$FinalID == &quot;Anax sp.&quot;, &quot;FinalID&quot;] &lt;- &quot;Anax&quot;
+data[data$FinalID == &quot;Daphnia sp. (DISTINCT)&quot;, &quot;FinalID&quot;] &lt;- &quot;Daphnia&quot;
+data[data$FinalID == &quot;Ishnura&quot;, &quot;FinalID&quot;] &lt;- &quot;Ischnura&quot;
+data &lt;- data[data$FinalID != &quot;&quot;, ]
+
+###Match names###
+data &lt;- IBIname_match(data)
+data &lt;- data[!duplicated(data[, c(&quot;FinalID&quot;, &quot;SampleID&quot;, &quot;LifeStageName&quot;, &quot;Distinct&quot;)]),]
+
+###print non-matches###
+unique(data[data$SAFIT2==&quot;Missing&quot;, &quot;FinalID&quot;])
+</code></pre>
+
+<pre><code> [1] &quot;Aglaodiaptomus forbesi&quot;    &quot;Simocephalus&quot;             
+ [3] &quot;Arctodiaptomus dorsalis&quot;   &quot;Daphnia magna&quot;            
+ [5] &quot;Alona&quot;                     &quot;Acanthocyclops trajani&quot;   
+ [7] &quot;Macrocyclops albidus&quot;      &quot;Acanthocyclops einslei&quot;   
+ [9] &quot;Leptodiaptomus siciloides&quot; &quot;Skistodiaptomus pallidus&quot; 
+[11] &quot;Eucyclops elegans&quot;         &quot;Mesocyclops edax&quot;         
+[13] &quot;Ilyocryptus&quot;               &quot;Daphnia ambigua&quot;          
+[15] &quot;Microcyclops rubellus&quot;     &quot;Calanoida&quot;                
+[17] &quot;Ectocyclops phaleratus&quot;    &quot;Daphnia pulex&quot;            
+</code></pre>
+
+<pre><code class="r">
+###Subsample down to 500##
+
+data$subsample &lt;- rarify(data, sample.ID=&quot;SampleID&quot;, abund=&quot;BAResult&quot;, subsiz=500)$BAResult
+
+###Scraper Richness###
+
+
+data$feed &lt;- rep(NA, length(data$BAResult))
+
+load(&quot;ibiv2.RData&quot;)
+ibi &lt;- IBIv2
+ibi$FunctionalFeedingGroup &lt;- as.character(ibi$FunctionalFeedingGroup)
+ibi$FunctionalFeedingGroup[which(ibi$FunctionalFeedingGroup == &quot;&quot;)] &lt;- &quot;None reported&quot;
+ibi$FunctionalFeedingGroup &lt;- toupper(ibi$FunctionalFeedingGroup)
+
+data$feed &lt;- ibi[match(data$FinalID, ibi$FinalID), &quot;FunctionalFeedingGroup&quot;]
+
+scraper_richness &lt;- function(i)length(unique(data$SAFIT2[which(i &amp; data$feed[i]==&quot;SC&quot;)]))
+
+#Subsampled to 500; SAFIT Level 1; quantitative data only#
+samples1 &lt;- data$SampleID[data[[&quot;subsample&quot;]]&gt;0 &amp; data$distinct==&quot;Distinct&quot; &amp; data$BenthicResultType == &quot;Quantitative&quot;]
+scraper1 &lt;- tapply(1:length(samples1), samples1, scraper_richness)
+scraper1
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    1     2     0     0     0     1     1     1     2     0     3     2 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    1     2     0     0     0     1     0     1     0 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; SAFIT Level 1; quantitative data only#
+samples2 &lt;- data$SampleID[data[[&quot;BAResult&quot;]]&gt;0 &amp; data$distinct==&quot;Distinct&quot; &amp; data$BenthicResultType == &quot;Quantitative&quot;]
+scraper2 &lt;- tapply(1:length(samples2), samples2, scraper_richness)
+scraper2
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    1     2     0     0     0     1     1     1     2     0     3     2 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    1     2     0     0     0     1     0     1     0 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; SAFIT Level 1; quantitative and rare data#
+samples3 &lt;- data$SampleID[data[[&quot;BAResult&quot;]]&gt;0 &amp; data$distinct==&quot;Distinct&quot;]
+scraper3 &lt;- tapply(1:length(samples3), samples3, scraper_richness)
+scraper3
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    1     2     0     0     0     1     2     1     2     0     3     3 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    1     2     0     0     1     1     1     1     0 
+</code></pre>
+
+<pre><code class="r">###EOT Richness###
+EOTrichness &lt;- function(i)sum(unique(data$SAFIT2[i]) %in% ibi$SAFIT2[ibi$Order %in% c(&quot;Ephemeroptera&quot;, &quot;Odonata&quot;, &quot;Trichoptera&quot;)])
+#Subsampled to 500; SAFIT Level 1; quantitative data only#
+EOT1 &lt;- tapply(1:length(samples1), samples1, EOTrichness)
+EOT1
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    4     0     1     0     0     0     0     1     0     0     0     1 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    2     4     1     2     1     2     4     3     0 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; SAFIT Level 1; quantitative data only#
+EOT2 &lt;- tapply(1:length(samples2), samples2, EOTrichness)
+EOT2
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    4     0     1     0     0     0     0     1     0     0     0     1 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    2     4     1     2     1     2     4     3     0 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; SAFIT Level 1; quantitative and rare data#
+EOT3 &lt;- tapply(1:length(samples3), samples3, EOTrichness)
+EOT3
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    4     0     1     0     0     0     0     1     0     2     0     1 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    2     4     2     2     1     3     4     3     0 
+</code></pre>
+
+<pre><code class="r">
+###Oligochaeta richness###
+Oligochaeta_richness &lt;- function(i)sum(unique(data$SAFIT2[i]) %in% ibi$SAFIT2[ibi$Class == &quot;Oligochaeta&quot;])
+#Subsampled to 500; SAFIT Level 1; quantitative data only#
+Oligo1 &lt;- tapply(1:length(samples1), samples1, Oligochaeta_richness)
+Oligo1
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    1     1     0     0     1     1     1     1     1     1     1     1 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    1     1     1     0     1     1     1     1     1 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; SAFIT Level 1; quantitative data only#
+Oligo2 &lt;- tapply(1:length(samples2), samples2, Oligochaeta_richness)
+Oligo2
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    1     1     0     0     1     1     1     1     1     1     1     1 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    1     1     1     0     1     1     1     1     1 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; SAFIT Level 1; quantitative and rare data#
+Oligo3 &lt;- tapply(1:length(samples3), samples3, Oligochaeta_richness)
+Oligo3
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    1     1     0     0     1     1     1     1     1     1     1     1 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    1     1     1     0     1     1     1     1     1 
+</code></pre>
+
+<pre><code class="r">
+###Predator Richness###
+predator_richness &lt;- function(i)length(unique(data$SAFIT2[which(i &amp; data$feed[i]==&quot;P&quot;)]))
+#Subsampled to 500; SAFIT Level 1; quantitative data only#
+Pred1 &lt;- tapply(1:length(samples1), samples1, predator_richness)
+Pred1
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    3     1     2     3     0     3     1     1     4     4     5     4 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    6     8     4     4     3     8     8     9     2 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; SAFIT Level 1; quantitative data only#
+Pred2 &lt;- tapply(1:length(samples2), samples2, predator_richness)
+Pred2
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    3     1     2     3     0     3     1     1     4     4     5     4 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    6     8     4     4     3     8     8     9     2 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; SAFIT Level 1; quantitative and rare data#
+Pred3 &lt;- tapply(1:length(samples3), samples3, predator_richness)
+Pred3
+</code></pre>
+
+<pre><code>19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 
+    3     1     2     3     0     3     1     1     5     6     7     5 
+19956 19957 19958 19959 19960 19961 19962 19963 19964 
+    6     9     5     5     4     9     9     9     2 
+</code></pre>
+
+<pre><code class="r">
+###Percent Coleoptera###
+Coleoptera_abund &lt;- function(i, count)sum(data[which(data$SAFIT2[i] %in% ibi$SAFIT2[ibi$Order == &quot;Coleoptera&quot;]), count])
+totalabund &lt;- function(s, count)tapply(data[which(data$SampleID %in% s), count], data$SampleID[which(data$SampleID %in% s)], sum)
+#Subsampled to 500; quantitative data only#
+samples4 &lt;- data$SampleID[data[[&quot;subsample&quot;]]&gt;0 &amp; data$BenthicResultType == &quot;Quantitative&quot;]
+coleoptera1 &lt;- 100*(tapply(1:length(samples4), samples4, Coleoptera_abund, count=&quot;subsample&quot;)/totalabund(samples4, &quot;subsample&quot;))
+coleoptera1
+</code></pre>
+
+<pre><code>  19944   19945   19946   19947   19948   19949   19950   19951   19952 
+ 1.0373  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  2.6000 
+  19953   19954   19955   19956   19957   19958   19959   19960   19961 
+ 0.0000  5.4000 13.2000  0.0000  0.2024 46.6801  0.2028  0.0000  0.4000 
+  19962   19963   19964 
+15.6522 12.8000  0.0000 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; quantitative data only#
+samples5 &lt;- data$SampleID[data[[&quot;BAResult&quot;]]&gt;0 &amp; data$BenthicResultType == &quot;Quantitative&quot;]
+coleoptera2 &lt;- 100*(tapply(1:length(samples5), samples5, Coleoptera_abund, count=&quot;BAResult&quot;)/totalabund(samples5, &quot;BAResult&quot;))
+coleoptera2
+</code></pre>
+
+<pre><code>  19944   19945   19946   19947   19948   19949   19950   19951   19952 
+ 1.0373  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  2.5591 
+  19953   19954   19955   19956   19957   19958   19959   19960   19961 
+ 0.0000  5.2734 12.6923  0.0000  0.2024 46.6801  0.2028  0.0000  0.3953 
+  19962   19963   19964 
+15.6522 12.6482  0.0000 
+</code></pre>
+
+<pre><code class="r">#Unsubsampled; quantitative data and rare data#
+samples6 &lt;- data$SampleID[data[[&quot;BAResult&quot;]]&gt;0]
+coleoptera3 &lt;- 100*(tapply(1:length(samples6), samples6, Coleoptera_abund, count=&quot;BAResult&quot;)/totalabund(samples6, &quot;BAResult&quot;))
+coleoptera3
+</code></pre>
+
+<pre><code>  19944   19945   19946   19947   19948   19949   19950   19951   19952 
+ 1.2448  0.0000  0.0000  0.0000  0.0000  0.0000  1.1976  0.0000  2.7559 
+  19953   19954   19955   19956   19957   19958   19959   19960   19961 
+ 0.0000  5.2734 13.0769  0.0000  1.4170 47.8873  0.2028  0.7722  2.5692 
+  19962   19963   19964 
+19.1304 12.6482  0.0000 
+</code></pre>
+
+<pre><code class="r">
+###Percent EOT###
+EOTabund &lt;- function(i, count)sum(data[which(data$SAFIT2[i] %in% ibi$SAFIT2[ibi$Order %in% c(&quot;Ephemeroptera&quot;, &quot;Odonata&quot;, &quot;Trichoptera&quot;)]), count])
+#Subsampled to 500; quantitative data only#
+EOTpercent1 &lt;- 100*(tapply(1:length(samples4), samples4, EOTabund, count=&quot;subsample&quot;)/totalabund(samples4, &quot;subsample&quot;))
+EOTpercent1
+</code></pre>
+
+<pre><code>  19944   19945   19946   19947   19948   19949   19950   19951   19952 
+35.6846  0.2000  0.0000  0.0000  0.0000  4.2857  0.0000  0.0000  0.8000 
+  19953   19954   19955   19956   19957   19958   19959   19960   19961 
+ 0.0000 80.8000 18.6000  7.6768  6.8826  0.4024  0.0000  0.0000  7.4000 
+  19962   19963   19964 
+ 0.2174 32.4000  0.2058 
+</code></pre>
+
+<pre><code class="r">#Subsampled to 500; quantitative data only#
+EOTpercent2 &lt;- 100*(tapply(1:length(samples5), samples5, EOTabund, count=&quot;BAResult&quot;)/totalabund(samples5, &quot;BAResult&quot;))
+EOTpercent2
+</code></pre>
+
+<pre><code>  19944   19945   19946   19947   19948   19949   19950   19951   19952 
+35.6846  0.1988  0.0000  0.0000  0.0000  4.2857  0.0000  0.0000  0.7874 
+  19953   19954   19955   19956   19957   19958   19959   19960   19961 
+ 0.0000 79.4922 17.8846  7.6768  6.8826  0.4024  0.0000  0.0000  7.3123 
+  19962   19963   19964 
+ 0.2174 32.0158  0.2058 
+</code></pre>
+
+<pre><code class="r">#Subsampled to 500; quantitative data and rare data#
+EOTpercent3 &lt;- 100*(tapply(1:length(samples6), samples6, EOTabund, count=&quot;BAResult&quot;)/totalabund(samples6, &quot;BAResult&quot;))
+EOTpercent3
+</code></pre>
+
+<pre><code>  19944   19945   19946   19947   19948   19949   19950   19951   19952 
+35.6846  0.1988  0.0000  0.0000  0.0000  4.2857  1.3972 58.2822 52.7559 
+  19953   19954   19955   19956   19957   19958   19959   19960   19961 
+ 0.0000 91.7969 19.2308  7.6768 15.1822  0.4024  0.0000  1.9305 63.8340 
+  19962   19963   19964 
+13.4783 32.0158  0.2058 
+</code></pre>
+
+<pre><code class="r">
+###Percent Dominant###
+dominate &lt;- function(i)sum(sort(data[i, &quot;BAResult&quot;], decreasing=T)[1:3])
+percentdominant &lt;- 100*(tapply(1:length(data$SampleID), data$SampleID, dominate)/totalabund(data$SampleID, &quot;BAResult&quot;))
+
+###Percent Tanypodinae/Chironomidae###
+load(&quot;taxonomy.RData&quot;)
+data &lt;- merge(data, taxonomy[,c(&quot;FinalID&quot;, &quot;Family&quot;, &quot;Subfamily&quot;)], all.x=T)
+TanyChiro &lt;- 100*(tapply(1:length(data$FinalID), data$SampleID,
+                    function(i)sum(data$BAResult[which(data$Subfamily[i]==&quot;Tanypodinae&quot;)]))/
+                      tapply(1:length(data$FinalID), data$SampleID,
+                             function(i)sum(data$BAResult[which(data$Family[i]==&quot;Chironomidae&quot;)])))
+TanyChiro[is.na(TanyChiro)] &lt;- 0 
+
+
+results &lt;- cbind(percentdominant, TanyChiro, coleoptera1, EOTpercent1, scraper1,
+                 EOT1, Oligo1, Pred1)
+colnames(results) &lt;- c(&quot;Percent three dominant taxa&quot;, &quot;Percent Tanypodinae/ Chironomidae&quot;,
+                       &quot;Percent Coleoptera&quot;, &quot;Percent EOT&quot;, &quot;Scraper richness&quot;, 
+                       &quot;EOT richness&quot;, &quot;Oligochaeta richness&quot;, &quot;Predator richness&quot;)
+results
+</code></pre>
+
+<pre><code>      Percent three dominant taxa Percent Tanypodinae/ Chironomidae
+19944                       54.36                            0.0000
+19945                       79.52                           98.7654
+19946                       84.33                           98.9796
+19947                       76.48                            2.2222
+19948                       99.22                            0.0000
+19949                       52.65                            0.0000
+19950                       93.81                            0.0000
+19951                       66.26                            0.6369
+19952                       74.80                            6.2500
+19953                       82.78                            1.5625
+19954                       58.40                            3.7736
+19955                       56.54                            6.8627
+19956                       60.61                           14.8148
+19957                       57.69                            0.6289
+19958                       90.54                            0.0000
+19959                       89.45                            0.0000
+19960                       73.17                            0.0000
+19961                       85.57                           80.6818
+19962                       55.22                           85.3659
+19963                       49.21                           46.1538
+19964                       80.66                            0.0000
+      Percent Coleoptera Percent EOT Scraper richness EOT richness
+19944             1.0373     35.6846                1            4
+19945             0.0000      0.2000                2            0
+19946             0.0000      0.0000                0            1
+19947             0.0000      0.0000                0            0
+19948             0.0000      0.0000                0            0
+19949             0.0000      4.2857                1            0
+19950             0.0000      0.0000                1            0
+19951             0.0000      0.0000                1            1
+19952             2.6000      0.8000                2            0
+19953             0.0000      0.0000                0            0
+19954             5.4000     80.8000                3            0
+19955            13.2000     18.6000                2            1
+19956             0.0000      7.6768                1            2
+19957             0.2024      6.8826                2            4
+19958            46.6801      0.4024                0            1
+19959             0.2028      0.0000                0            2
+19960             0.0000      0.0000                0            1
+19961             0.4000      7.4000                1            2
+19962            15.6522      0.2174                0            4
+19963            12.8000     32.4000                1            3
+19964             0.0000      0.2058                0            0
+      Oligochaeta richness Predator richness
+19944                    1                 3
+19945                    1                 1
+19946                    0                 2
+19947                    0                 3
+19948                    1                 0
+19949                    1                 3
+19950                    1                 1
+19951                    1                 1
+19952                    1                 4
+19953                    1                 4
+19954                    1                 5
+19955                    1                 4
+19956                    1                 6
+19957                    1                 8
+19958                    1                 4
+19959                    0                 4
+19960                    1                 3
+19961                    1                 8
+19962                    1                 8
+19963                    1                 9
+19964                    1                 2
+</code></pre>
+
+<pre><code class="r">
+
+
+
+</code></pre>
+
+</body>
+
+</html>
+

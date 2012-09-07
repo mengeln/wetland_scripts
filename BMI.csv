@@ -1,0 +1,496 @@
+LabSampleID,FinalID,LifeStageCode,LifeStageName,Distinct,BAResult,TaxonomicQualifier,TaxonomicQualifierDescr,LabResultPersonnelCode,ExcludedTaxaEntered,BenthicResultType,ExcludedTaxa
+19944,Apedilum,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Arrenurus,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Aglaodiaptomus forbesi,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19944,Callibaetis,L,Larva,0,21,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Simocephalus sp.,X,Undefined,0,30,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19944,Coenagrionidae,L,Larva,0,86,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19944,Corynoneura,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Cricotopus,L,Larva,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Cyprididae,X,Undefined,0,112,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Dero,X,Undefined,0,26,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Dicrotendipes,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Enallagma,L,Larva,0,64,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Haliplus,A,Adult,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Haliplus,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Helisoma,X,Undefined,0,63,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Nais,X,Undefined,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Ostracoda,X,Undefined,1,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Oxyethira,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Phaenopsectra,L,Larva,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Physa,X,Undefined,0,42,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Piona,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Tubificidae,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19945,Arctodiaptomus dorsalis,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19945,Callibaetis,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19945,Daphnia magna,X,Undefined,0,264,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19945,Simocephalus sp.,X,Undefined,0,21,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19945,Alona sp.,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19945,Corisella decolor,A,Adult,0,16,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19945,Corixidae,L,Larva,0,40,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19945,Cricotopus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19945,Acanthocyclops trajani,X,Undefined,0,10,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19945,Macrocyclops albidus,X,Undefined,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19945,Cyprididae,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19945,Hyalella,X,Undefined,0,61,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19945,Ostracoda,X,Undefined,0,75,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Bezzia/ Palpomyia,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Arctodiaptomus dorsalis,X,Undefined,0,9,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19946,Daphnia magna,X,Undefined,0,330,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19946,Simocephalus sp.,X,Undefined,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19946,Corisella decolor,A,Adult,0,18,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Corixidae,L,Larva,0,18,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19946,Cricotopus,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Acanthocyclops trajani,X,Undefined,0,14,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19946,Macrocyclops albidus,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19946,Cyprididae,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Dasyhelea,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Dero,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Hyalella,X,Undefined,0,34,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Ostracoda,X,Undefined,0,72,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Physa,X,Undefined,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Tanypus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19946,Tubificidae,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Arctodiaptomus dorsalis,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19947,Chironomus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Daphnia magna,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19947,Simocephalus sp.,X,Undefined,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19947,Ceriodaphnia sp.,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19947,Alona sp.,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19947,Corisella decolor,A,Adult,0,116,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Corixidae,L,Larva,0,58,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19947,Cricotopus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Acanthocyclops einslei,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19947,Acanthocyclops trajani,X,Undefined,0,11,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19947,Macrocyclops albidus,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19947,Cyprididae,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Dasyhelea,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Dero,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Dicrotendipes,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Hyalella,X,Undefined,0,54,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Ostracoda,X,Undefined,0,200,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Physa,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Tanypus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19947,Tubificidae,X,Undefined,0,10,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19948,Leptodiaptomus siciloides,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19948,Chironomus,L,Larva,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19948,Ceriodaphnia sp.,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19948,Oligochaeta,X,Undefined,1,8,O,Other - see comments,"Pickard, D.",NA,Quantitative,NA
+19948,Ostracoda,X,Undefined,0,495,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19948,,,,,,,,,,Quantitative,
+19949,Skistodiaptomus pallidus,X,Undefined,0,11,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19949,Chironomus,L,Larva,0,19,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Simocephalus sp.,X,Undefined,0,166,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19949,Coenagrionidae,L,Larva,0,9,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19949,Corynoneura,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Cricotopus,L,Larva,0,19,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Acanthocyclops einslei,X,Undefined,0,35,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19949,Eucyclops elegans,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19949,Macrocyclops albidus,X,Undefined,0,47,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19949,Mesocyclops edax,X,Undefined,0,18,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19949,Dasyhelea,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Dero,X,Undefined,0,45,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Dicrotendipes,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Ephydridae,P,Pupa,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Ferrissia,X,Undefined,0,17,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Hyalella,X,Undefined,0,29,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Hydra,X,Undefined,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Oligochaeta,X,Undefined,1,9,O,Other - see comments,"Pickard, D.",NA,Quantitative,NA
+19949,Ostracoda,X,Undefined,0,9,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Physa,X,Undefined,0,20,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Piona,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19949,Tubificidae,X,Undefined,0,13,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19949,Unionicolidae,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19950,Leptodiaptomus siciloides,X,Undefined,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19950,Chironomus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19950,Simocephalus sp.,X,Undefined,0,9,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19950,Ceriodaphnia sp.,X,Undefined,0,358,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19950,Acanthocyclops trajani,X,Undefined,0,97,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19950,Ferrissia,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19950,Notonecta,A,Adult,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19950,Oligochaeta,X,Undefined,1,1,O,Other - see comments,"Pickard, D.",NA,Quantitative,NA
+19950,Ostracoda,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19950,Paranais litoralis,X,Undefined,0,15,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19950,Piona,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19950,Sigara,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19950,Tubificidae,X,Undefined,0,3,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19951,Apedilum,L,Larva,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Chaetogaster diaphanus,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Chironomus,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Simocephalus sp.,X,Undefined,0,149,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19951,Alona sp.,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19951,Ilyocryptus sp.,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19951,Corisella decolor,A,Adult,0,10,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Corixidae,L,Larva,0,62,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19951,Cricotopus,L,Larva,0,13,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Acanthocyclops trajani,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19951,Macrocyclops albidus,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19951,Dero,X,Undefined,0,113,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Dicrotendipes,L,Larva,0,32,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Ferrissia,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Helisoma,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Hyalella,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Oligochaeta,X,Undefined,1,8,O,Other - see comments,"Pickard, D.",NA,Quantitative,NA
+19951,Ostracoda,X,Undefined,0,11,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Physa,X,Undefined,0,21,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Pristina leidyi,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Procladius,L,Larva,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Slavina appendiculata,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Tanytarsus,L,Larva,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19951,Tubificidae,X,Undefined,0,16,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19952,Chironomus,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Simocephalus sp.,X,Undefined,0,89,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19952,Daphnia ambigua,X,Undefined,0,179,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19952,Ceriodaphnia sp.,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19952,Corisella decolor,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Corixidae,L,Larva,0,8,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19952,Cricotopus,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Acanthocyclops einslei,X,Undefined,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19952,Dero,X,Undefined,0,51,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Dicrotendipes,L,Larva,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Dytiscidae,L,Larva,1,1,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19952,Ferrissia,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Glossiphoniidae,X,Undefined,0,2,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19952,Haliplus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Helisoma,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Hyalella,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Libellulidae,L,Larva,0,1,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19952,Oligochaeta,X,Undefined,1,1,O,Other - see comments,"Pickard, D.",NA,Quantitative,NA
+19952,Oreodytes,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Ostracoda,X,Undefined,0,112,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Physa,X,Undefined,0,23,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Tropisternus,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19952,Tubificidae,X,Undefined,0,2,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19953,Aulodrilus,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Chaetogaster diaphanus,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Chironomus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Simocephalus sp.,X,Undefined,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19953,Corisella decolor,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Corixidae,L,Larva,0,6,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19953,Cricotopus,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Acanthocyclops einslei,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19953,Macrocyclops albidus,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19953,Dero,X,Undefined,0,11,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Dicrotendipes,L,Larva,0,12,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Erpobdellidae,X,Undefined,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Helobdella stagnalis,X,Undefined,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Hyalella,X,Undefined,0,162,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Ostracoda,X,Undefined,0,215,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Physa,X,Undefined,0,17,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Procladius,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19953,Tubificidae,X,Undefined,1,6,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19953,Turbellaria,X,Undefined,0,46,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Ablabesmyia,L,Larva,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Berosus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Bezzia/ Palpomyia,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Aglaodiaptomus forbesi,X,Undefined,0,114,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19954,Callibaetis,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Chironomus,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Alona sp.,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19954,Simocephalus sp.,X,Undefined,0,66,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19954,Coenagrionidae,L,Larva,0,6,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19954,Colymbetes,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Corisella decolor,A,Adult,0,15,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Corixidae,L,Larva,0,28,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19954,Cricotopus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Microcyclops rubellus,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19954,Dasyhelea,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Dero,X,Undefined,0,53,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Dicrotendipes,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Helisoma,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Helobdella stagnalis,X,Undefined,0,9,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Hyalella,X,Undefined,0,119,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Ischnura,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Limnesia,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Notonectidae,L,Larva,0,1,I,Immature specimen,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19954,Ostracoda,X,Undefined,0,20,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Oxyethira,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Paratanytarsus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Physa,X,Undefined,0,23,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Procladius,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Psectrocladius,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Tanytarsus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19954,Tubificidae,X,Undefined,1,10,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19954,Unionicolidae,X,Undefined,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Anax,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Aulodrilus,X,Undefined,0,21,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Bezzia/ Palpomyia,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Buenoa,A,Adult,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19955,Aglaodiaptomus forbesi,X,Undefined,0,131,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19955,Callibaetis,L,Larva,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Simocephalus sp.,X,Undefined,0,49,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19955,Coenagrionidae,L,Larva,0,55,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19955,Corisella decolor,A,Adult,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Corixidae,L,Larva,0,42,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Cryptotendipes,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Dero,X,Undefined,0,14,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Dicrotendipes,L,Larva,0,11,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Enochrus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Erpobdellidae,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Helobdella,X,Undefined,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Helobdella stagnalis,X,Undefined,0,12,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Hyalella,X,Undefined,0,108,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Hydrachna,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Hydrovatus,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Ischnura,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Ostracoda,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Oxyethira,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Procladius,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Tanytarsus,L,Larva,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Tropisternus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Tubificidae,X,Undefined,1,5,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19955,Unionicolidae,X,Undefined,0,9,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19955,Zavrelimyia/ Paramerina,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Ablabesmyia,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Aulodrilus,X,Undefined,0,24,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Bezzia/ Palpomyia,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Aglaodiaptomus forbesi,X,Undefined,0,70,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19956,Callibaetis,L,Larva,0,26,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Chironomus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Simocephalus sp.,X,Undefined,0,9,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19956,Coenagrionidae,L,Larva,0,19,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19956,Corisella decolor,A,Adult,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Corixidae,L,Larva,1,76,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Corynoneura,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Dero,X,Undefined,0,31,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Dicrotendipes,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Erpobdellidae,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Helobdella,X,Undefined,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Helobdella stagnalis,X,Undefined,0,11,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Hyalella,X,Undefined,0,154,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Hydrachna,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Ischnura,L,Larva,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Ostracoda,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Physa,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Procladius,L,Larva,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Tanytarsus,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19956,Tubificidae,X,Undefined,1,16,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19956,Unionicolidae,X,Undefined,0,21,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Ablabesmyia,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Anax,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Aulodrilus,X,Undefined,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Bezzia/ Palpomyia,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Buenoa,A,Adult,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19957,Aglaodiaptomus forbesi,X,Undefined,0,65,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19957,Callibaetis,L,Larva,0,12,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Chironomus,L,Larva,0,11,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Simocephalus sp.,X,Undefined,0,24,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19957,Alona sp.,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19957,Coenagrionidae,L,Larva,0,39,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19957,Corisella decolor,A,Adult,0,15,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Corixidae,L,Larva,0,27,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Cricotopus,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Dero,X,Undefined,0,15,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Dicrotendipes,L,Larva,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Enallagma,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Erpobdellidae,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Helobdella stagnalis,X,Undefined,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Hyalella,X,Undefined,0,181,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Hydrovatus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Ischnura,L,Larva,0,10,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Ostracoda,X,Undefined,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Parachironomus,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Tanytarsus,L,Larva,0,9,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Tramea,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Tubificidae,X,Undefined,1,32,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19957,Unionicolidae,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Calanoida,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19958,Callibaetis,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Chironomus,L,Larva,0,58,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Ceriodaphnia sp.,X,Undefined,0,77,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19958,Colymbetes,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Corynoneura,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Cricotopus,L,Larva,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Acanthocyclops trajani,X,Undefined,0,14,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19958,Dytiscidae,L,Larva,1,1,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19958,Enochrus,L,Larva,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Ischnura,L,Larva,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Laccophilus,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Ostracoda,X,Undefined,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Physa,X,Undefined,0,315,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19958,Unionicolidae,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19959,Berosus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19959,Leptodiaptomus siciloides,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19959,Arctodiaptomus dorsalis,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19959,Daphnia sp. (DISTINCT),X,Undefined,0,392,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19959,Simocephalus sp.,X,Undefined,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19959,Corisella decolor,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19959,Corixidae,L,Larva,0,22,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19959,Acanthocyclops trajani,X,Undefined,0,13,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19959,Eucyclops elegans,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19959,Macrocyclops albidus,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19959,Dero,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19959,Ostracoda,X,Undefined,0,27,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19959,Trichocorixa,L,Larva,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19959,Tubificidae,X,Undefined,0,5,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19960,Leptodiaptomus siciloides,X,Undefined,0,82,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19960,Chironomus,L,Larva,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19960,Ceriodaphnia sp.,X,Undefined,0,206,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19960,Simocephalus sp.,X,Undefined,0,18,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19960,Alona sp.,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19960,Corixidae,L,Larva,0,5,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19960,Acanthocyclops trajani,X,Undefined,0,80,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19960,Dero,X,Undefined,0,12,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19960,Dicrotendipes,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19960,Ferrissia,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19960,Hyalella,X,Undefined,0,91,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19960,Limnophyes,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19960,Ostracoda,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19960,Parachironomus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19960,Tubificidae,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Ablabesmyia,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Aeshnidae,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Berosus,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Buenoa,A,Adult,0,10,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19961,Callibaetis,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Chironomus,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Simocephalus sp.,X,Undefined,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19961,Corixidae,L,Larva,0,7,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19961,Dero,X,Undefined,0,8,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Dicrotendipes,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Helisoma,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Hesperocorixa,A,Adult,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Hyalella,X,Undefined,0,390,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Hydra,X,Undefined,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Hydrachna,X,Undefined,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Ischnura,L,Larva,0,5,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Ostracoda,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Peltodytes,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Physa,X,Undefined,0,33,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Piona,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Procladius,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Tanytarsus,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19961,Tubificidae,X,Undefined,0,2,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19962,Buenoa,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19962,Leptodiaptomus siciloides,X,Undefined,0,15,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19962,Callibaetis,L,Larva,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Chironomus,L,Larva,0,101,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19962,Simocephalus sp.,X,Undefined,0,22,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19962,Ceriodaphnia sp.,X,Undefined,0,78,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19962,Colymbetes,L,Larva,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Culicidae,L,Larva,0,1,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19962,Acanthocyclops trajani,X,Undefined,0,11,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19962,Dasyhelea,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Dero,X,Undefined,0,26,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Dicrotendipes,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Dytiscidae,L,Larva,0,4,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19962,Hyalella,X,Undefined,0,75,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Laccophilus,A,Adult,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Limnodrilus hoffmeisteri,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Notonecta,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19962,Notonectidae,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19962,Oreodytes,L,Larva,0,6,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Ostracoda,X,Undefined,0,25,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Physa,X,Undefined,0,36,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Sphaeromias,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Tanypus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Tropisternus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19962,Tubificidae,X,Undefined,0,22,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19963,Anopheles,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Aulodrilus,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Caloparyphus/ Euparyphus,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Chironomus,L,Larva,0,21,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Simocephalus sp.,X,Undefined,0,21,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19963,Coenagrionidae,L,Larva,0,81,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Cricotopus,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Culicidae,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Acanthocyclops trajani,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19963,Ectocyclops phaleratus,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19963,Macrocyclops albidus,X,Undefined,0,32,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19963,Dasyhelea,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Dero,X,Undefined,0,110,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Dicrotendipes,L,Larva,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Enochrus,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Ephydridae,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Ferrissia,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Haemonais waldvogeli,X,Undefined,0,41,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Helobdella,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Hyalella,X,Undefined,0,58,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Ischnura,L,Larva,0,36,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Limnodrilus hoffmeisteri,X,Undefined,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Limnophyes,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Ostracoda,X,Undefined,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Paraphaenocladius,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Physa,X,Undefined,0,14,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Pristina leidyi,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Procladius,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Prostoma,X,Undefined,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Scirtidae,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19963,Sphaeromias,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Syrphidae,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Tanypus,L,Larva,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Tipulidae,L,Larva,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Tramea,L,Larva,0,10,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19963,Tubificidae,X,Undefined,0,36,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Aulodrilus,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Buenoa,A,Adult,0,9,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19964,Arctodiaptomus dorsalis,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19964,Daphnia pulex,X,Undefined,0,229,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19964,Simocephalus sp.,X,Undefined,0,33,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19964,Corisella decolor,A,Adult,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Corixidae,L,Larva,0,17,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19964,Acanthocyclops trajani,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19964,Macrocyclops albidus,X,Undefined,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,SAFIT_2006
+19964,Dero,X,Undefined,0,29,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Enallagma,L,Larva,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Helisoma,X,Undefined,0,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Helobdella stagnalis,X,Undefined,0,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Hyalella,X,Undefined,0,130,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Piona,X,Undefined,0,7,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Trichocorixa,A,Adult,0,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19964,Tubificidae,X,Undefined,0,8,I,Immature specimen,"Pickard, D.",NA,Quantitative,NA
+19964,Turbellaria,X,Undefined,0,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Quantitative,NA
+19944,Gerris,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19945,Tanypus,L,Larva,1,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19945,Sympetrum,L,Larva,1,,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19950,Rhionaeshna,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19950,Gerris,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19950,Enochrus,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19950,Archilestes,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19951,Ishnura,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19952,Enochrus,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19952,Sympetrum,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19952,Helobdella,,,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19953,Hyalella,,,1,4,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19953,Physa,,,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19953,Erpobdellidae,,,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19953,Corisella decolor,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19953,Dicrotendipes,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19954,Anax sp.,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19954,Ishnura,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19955,Anax sp.,L,Larva,1,3,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19955,Hesperocorixa,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19955,Ishnura,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19955,Enochrus,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19957,Anax,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19957,Tramea,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19957,Helisoma,,,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19958,Tropisternus,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19959,Anopheles,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19960,Tramea,L,Larva,1,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19960,Ishnura,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19960,Corisella decolor,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19960,Scirtidae,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19960,Helisoma,,,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19961,Ishnura,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19961,Anax,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19961,Sympetrum,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19961,Gerris,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19961,Hesperocorixa,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19961,Notonecta,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19961,Enochrus,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19962,Rhionaeshna,L,Larva,1,2,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19962,Notonecta,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19944,Berosus,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19951,Aeshnidae,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19952,Ablabesmyia,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19953,Helobdella stagnalis,,,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19954,Erpobdellidae,,,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19955,Anopheles,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19957,Tropisternus lateralis,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19957,Buenoa,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19958,Notonecta,A,Adult,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19959,Buenoa,A,Adult,2,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19961,Laccophilus,A,Adult,2,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19962,Enochrus,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
+19962,Ishnura,L,Larva,1,1,None,No Code representing the taxonomist's justification for not identifying a specimen to standard effort to report,"Pickard, D.",NA,Rare,NA
