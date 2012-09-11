@@ -1,0 +1,22 @@
+StationCode,SampleID,Total Count,Count Flag,Number of Iteration,Number of Oligochaeta taxa,Number of EOT Taxa,Number of Scraper taxa,Number of Predator Taxa,Percent Coleoptera,Percent EOT,Percent Tanypodinae to Chironomidae,Percent Dominant,Oligochaeta Score,EOT Taxa Score,Scraper Score,Predator Taxa Score,Coleoptera Score,Percent EOT Score,Percent Tanypodinae to Chironomidae Score,Percent Dominant Score,IBI Score
+402DLG000,402DLG000,480,Within specifications,1,1,3,3,3,1,35.8,0,54.6,9,4,10,1,5,10,0,0,41.5
+404BFM002,404BFM002,500,Adequate,1,0,1,0,1,0,0.2,0,80,10,2,0,0,0,0,0,7,22.36
+404BFM004,404BFM004,517,Adequate,20,2,0,1,3,0,0,33.3,84.31,7,0,5,1,0,0,5,9,36.64
+404BFM006,404BFM006,489,Within specifications,1,2,0,1,2,0,0,16.7,76.5,7,0,5,0,0,0,2,6,26.86
+404CRX000,404CRX000,511,Adequate,20,1,0,0,0,0,0,0,99.22,9,0,0,0,0,0,0,10,26.5
+404NFP000,404NFP000,490,Within specifications,1,1,1,2,4,0,1.8,0,52.7,9,2,10,3,0,0,0,0,20.07
+404ZUN000,404ZUN000,497,Within specifications,1,1,0,1,3,0,0,0,94.6,9,0,5,1,0,0,0,10,29.36
+411HRL000,411HRL000,487,Within specifications,1,2,0,3,2,0,0,11.9,66.5,7,0,10,0,0,0,1,1,20.07
+411MAD000,411MAD000,504,Adequate,20,2,1,3,4,1,0.2,0,75.4,7,2,10,3,5,0,0,5,35.5
+801ITR000,801ITR000,502,Adequate,20,1,0,1,4,0,0,6.2,84.3,9,0,5,3,0,0,0,9,29.43
+801LAG001,801LAG001,509,Adequate,20,1,3,2,8,0.6,2.8,35.18,58.72,9,4,10,9,3,0,5,0,38.64
+801LAG002,801LAG002,513,Adequate,20,1,3.9,0,9.75,0.79,13.82,33.375,57.345,9,5.8,0,9.75,3.95,4,5,0,45.21
+801LAG003,801LAG003,495,Within specifications,1,1,2,1,7,0,9.9,50,60.6,9,2,5,7,0,3,7,0,37.21
+801LAG004,801LAG004,489,Within specifications,1,1,5,0,11,0.2,13.3,8.8,58.3,9,8,0,10,1,4,1,0,37.21
+802MUR000,802MUR000,495,Within specifications,1,1,2,1,4,1.6,1,0,90.9,9,2,5,3,9,0,0,10,45.07
+903FOS000,903FOS000,491,Within specifications,1,1,0,0,2,0.2,0,0,89.8,9,0,0,0,1,0,0,10,27.93
+903GJL000,903GJL000,512,Adequate,20,1,0,1,1.95,0,0,0,74.02,9,0,5,0,0,0,0,4,19.79
+904AHC000,904AHC000,498,Within specifications,1,1,3,2,8,0.6,2.2,23.1,86.9,9,4,10,9,3,0,3,9,48
+904PAR000,904PAR000,455,Within specifications,1,1,1,1,7,4.4,1.5,1,55.8,9,2,5,7,10,0,0,0,37.21
+907SDR000,907SDR000,506,Adequate,20,1,2,2.95,5,0.79,25.1,10.8,49.21,9,2,10,4,3.95,8,1,0,40
+911DMP000,911DMP000,486,Within specifications,1,2,1,1,6,0,0.2,0,80.7,7,2,5,6,0,0,0,7,32.5
