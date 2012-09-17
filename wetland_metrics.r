@@ -2,8 +2,8 @@
 Wetland_IBI <- function(data, DistinctCode=F){
   ###Pull in outside data###
   source("IBIname_match_wetlands2.r")
-  load("ibiv3.RData")
-  ibi <- ibiv3
+  load("ibiv4.RData")
+  ibi <- ibiv4
 
   data <- IBIname_match(data)
   colnames(data)[which(colnames(data) == "FinalID")] <- "Taxa"
@@ -150,8 +150,13 @@ Wetland_IBI <- function(data, DistinctCode=F){
                          "Percent Coleoptera", "Percent EOT", "Percent Tanypodinae to Chironomidae", "Percent Dominant",
                          "Oligochaeta Score", "EOT Taxa Score", "Scraper Score", "Predator Taxa Score", 
                          "Coleoptera Score", "Percent EOT Score", "Percent Tanypodinae to Chironomidae Score", "Percent Dominant Score", "IBI Score")
+  ###Extra stuff (TEMP)
+  results$Tanypodinae <- ddply(data[data[[datalength + i]]>0, ], "SampleID",
+                               function(d){
+                                 100*sum(d$Result[d$subfamily == "Tanypodinae"], na.rm=T)/sum(d$Result, na.rm=T)
+                               })[, 2]
   ###Return results###
-  return(results)
+  results
 }
 
 ###Compute IBI score###
@@ -159,4 +164,4 @@ dat <- read.csv("Query2.csv")
 results <- Wetland_IBI(dat, DistinctCode=T)
 
 ###Write results to csv###
-write.csv(results, file="Wetlands_IBI_metrics.csv")
+#write.csv(results, file="Wetlands_IBI_metrics.csv")

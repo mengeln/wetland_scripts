@@ -2,9 +2,9 @@ IBIname_match <- function(data){
   colnames(data)[which(colnames(data) == "FinalID")] <- "Taxa"
   colnames(data)[which(colnames(data) == "BAResult")] <- "Result"
   data <- data[which(!is.na(data$Result)), ]
-  load("ibiv3.RData")
+  load("ibiv4.RData")
   require(plyr)
-  ibi <- idata.frame(ibiv3)
+  ibi <- idata.frame(ibiv4)
   load("taxonomy_v4.RData")
   taxonomy <- idata.frame(taxonomy_v4)
   
