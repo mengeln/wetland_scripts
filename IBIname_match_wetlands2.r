@@ -5,8 +5,8 @@ IBIname_match <- function(data){
   load("ibiv4.RData")
   require(plyr)
   ibi <- idata.frame(ibiv4)
-  load("taxonomy_v4.RData")
-  taxonomy <- idata.frame(taxonomy_v4)
+  load("taxonomy_v5.RData")
+  taxonomy <- idata.frame(taxonomy_v5)
   
   ###Aggregate taxa###
   data <- ddply(data, "SampleID", function(df){

@@ -1,0 +1,440 @@
+StationCode,SampleID,Taxa,DistinctCode,Result,STE,distinct,Replicate 1,Replicate 2,Replicate 3,Replicate 4,Replicate 5,Replicate 6,Replicate 7,Replicate 8,Replicate 9,Replicate 10,Replicate 11,Replicate 12,Replicate 13,Replicate 14,Replicate 15,Replicate 16,Replicate 17,Replicate 18,Replicate 19,Replicate 20,MaxTol,Class,Order,FunctionalFeedingGroup,Family,subfamily
+402DLG000,402DLG000,Aglaodiaptomus forbesi,,1,Aglaodiaptomus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+402DLG000,402DLG000,Apedilum,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,CG,Chironomidae,Chironominae
+402DLG000,402DLG000,Arrenurus,,1,Arrenurus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Arachnida,Trombidiformes,P,Arrenuridae,
+402DLG000,402DLG000,Callibaetis,,21,Callibaetis,Distinct,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,9,Insecta,Ephemeroptera,CG,Baetidae,
+402DLG000,402DLG000,Coenagrionidae,,86,Coenagrionidae,Non-Distinct,86,86,86,86,86,86,86,86,86,86,86,86,86,86,86,86,86,86,86,86,9,Insecta,Odonata,P,Coenagrionidae,
+402DLG000,402DLG000,Corynoneura,,2,Orthocladiinae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+402DLG000,402DLG000,Cricotopus,,4,Orthocladiinae,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+402DLG000,402DLG000,Cyprididae,,112,Cyprididae,Distinct,112,112,112,112,112,112,112,112,112,112,112,112,112,112,112,112,112,112,112,112,8,Ostracoda,Podocopida,CG,Cyprididae,
+402DLG000,402DLG000,Dero,,26,Dero,Distinct,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,10,Oligochaeta,Tubificida,CG,Naididae,
+402DLG000,402DLG000,Dicrotendipes,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+402DLG000,402DLG000,Enallagma,,64,Enallagma,Distinct,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,9,Insecta,Odonata,P,Coenagrionidae,
+402DLG000,402DLG000,Haliplus,,5,Haliplus,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Insecta,Coleoptera,MH,Haliplidae,
+402DLG000,402DLG000,Helisoma,,63,Helisoma,Distinct,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,6,Gastropoda,Basommatophora,SC,Planorbidae,
+402DLG000,402DLG000,Nais,,6,Nais,Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,10,Oligochaeta,Tubificida,CG,Naididae,
+402DLG000,402DLG000,Ostracoda,Yes,4,Ostracoda,Non-Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,8,Ostracoda,,CG,,
+402DLG000,402DLG000,Oxyethira,,1,Oxyethira,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,Insecta,Trichoptera,PH,Hydroptilidae,
+402DLG000,402DLG000,Phaenopsectra,,4,Chironominae,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,7,Insecta,Diptera,SC,Chironomidae,Chironominae
+402DLG000,402DLG000,Physa,,42,Physa,Distinct,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,8,Gastropoda,Basommatophora,SC,Physidae,
+402DLG000,402DLG000,Piona,,1,Piona,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Arachnida,Trombidiformes,P,Pionidae,
+402DLG000,402DLG000,Simocephalus,,30,Simocephalus,Distinct,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,8,Branchipoda,Cladocera,CF,Daphniidae,
+402DLG000,402DLG000,Tubificidae,,5,Tubificidae,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,10,Oligochaeta,Tubificida,CG,Tubificidae,
+404BFM002,404BFM002,Acanthocyclops trajani,,10,Acanthocyclops,Distinct,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404BFM002,404BFM002,Alona,,2,Alona,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Branchipoda,Cladocera,CF,Chydoridae,
+404BFM002,404BFM002,Arctodiaptomus dorsalis,,1,Arctodiaptomus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+404BFM002,404BFM002,Callibaetis,,1,Callibaetis,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Ephemeroptera,CG,Baetidae,
+404BFM002,404BFM002,Corisella decolor,,16,Corisella,Distinct,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,8,Insecta,Hemiptera,P,Corixidae,
+404BFM002,404BFM002,Corixidae,,40,Corixidae,Non-Distinct,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,8,Insecta,Hemiptera,P,Corixidae,
+404BFM002,404BFM002,Cricotopus,,1,Orthocladiinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+404BFM002,404BFM002,Cyprididae,,2,Cyprididae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Ostracoda,Podocopida,CG,Cyprididae,
+404BFM002,404BFM002,Daphnia magna,,264,Daphnia,Distinct,264,264,264,264,264,264,264,264,264,264,264,264,264,264,264,264,264,264,264,264,8,Branchipoda,Cladocera,CF,Daphniidae,
+404BFM002,404BFM002,Hyalella,,61,Hyalella,Distinct,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+404BFM002,404BFM002,Macrocyclops albidus,,6,Macrocyclops,Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404BFM002,404BFM002,Ostracoda,,75,Ostracoda,Non-Distinct,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,8,Ostracoda,,CG,,
+404BFM002,404BFM002,Simocephalus,,21,Simocephalus,Distinct,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,8,Branchipoda,Cladocera,CF,Daphniidae,
+404BFM004,404BFM004,Acanthocyclops trajani,,14,Acanthocyclops,Distinct,14,13,13,14,14,13,13,14,14,14,13,13,14,14,14,13,14,14,11,14,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404BFM004,404BFM004,Arctodiaptomus dorsalis,,9,Arctodiaptomus,Distinct,9,8,8,8,9,9,9,8,9,8,9,9,8,9,9,9,9,9,9,8,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+404BFM004,404BFM004,Bezzia/ Palpomyia,,1,Bezzia/ Palpomyia,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,P,Ceratopogonidae,Ceratopogoninae
+404BFM004,404BFM004,Corisella decolor,,18,Corisella,Distinct,17,18,18,18,17,17,18,17,18,17,17,18,18,18,18,16,18,18,18,18,8,Insecta,Hemiptera,P,Corixidae,
+404BFM004,404BFM004,Corixidae,,18,Corixidae,Non-Distinct,18,18,18,18,18,18,17,18,17,18,17,18,17,16,18,18,18,18,17,18,8,Insecta,Hemiptera,P,Corixidae,
+404BFM004,404BFM004,Cricotopus,,2,Orthocladiinae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+404BFM004,404BFM004,Cyprididae,,1,Cyprididae,Distinct,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Ostracoda,Podocopida,CG,Cyprididae,
+404BFM004,404BFM004,Daphnia magna,,330,Daphnia,Distinct,318,320,322,319,320,319,320,320,319,322,320,317,319,323,320,320,318,319,319,321,8,Branchipoda,Cladocera,CF,Daphniidae,
+404BFM004,404BFM004,Dasyhelea,,1,Dasyhelea,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,CG,Ceratopogonidae,Dasyheleinae
+404BFM004,404BFM004,Dero,,1,Dero,Distinct,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Oligochaeta,Tubificida,CG,Naididae,
+404BFM004,404BFM004,Hyalella,,34,Hyalella,Distinct,33,33,33,32,34,33,32,32,33,32,32,32,34,31,32,33,31,33,32,33,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+404BFM004,404BFM004,Macrocyclops albidus,,4,Macrocyclops,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,3,4,4,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404BFM004,404BFM004,Ostracoda,,72,Ostracoda,Non-Distinct,70,69,67,70,68,69,70,69,68,68,70,72,69,68,67,71,71,69,72,66,8,Ostracoda,,CG,,
+404BFM004,404BFM004,Physa,,3,Physa,Distinct,3,3,3,2,3,3,3,3,3,2,3,3,2,3,3,3,3,2,3,3,8,Gastropoda,Basommatophora,SC,Physidae,
+404BFM004,404BFM004,Simocephalus,,7,Simocephalus,Distinct,6,7,6,7,6,7,7,7,7,7,7,7,7,7,7,5,7,7,7,7,8,Branchipoda,Cladocera,CF,Daphniidae,
+404BFM004,404BFM004,Tanypus,,1,Tanypodinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,10,Insecta,Diptera,P,Chironomidae,Tanypodinae
+404BFM004,404BFM004,Tubificidae,,1,Tubificidae,Distinct,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Oligochaeta,Tubificida,CG,Tubificidae,
+404BFM006,404BFM006,Acanthocyclops einslei,,1,Acanthocyclops,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404BFM006,404BFM006,Acanthocyclops trajani,,11,Acanthocyclops,Distinct,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404BFM006,404BFM006,Alona,,5,Alona,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,8,Branchipoda,Cladocera,CF,Chydoridae,
+404BFM006,404BFM006,Arctodiaptomus dorsalis,,2,Arctodiaptomus,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+404BFM006,404BFM006,Ceriodaphnia,,2,Ceriodaphnia,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Branchiopoda,Cladocera,CF,Daphniidae,
+404BFM006,404BFM006,Chironomus,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+404BFM006,404BFM006,Corisella decolor,,116,Corisella,Distinct,116,116,116,116,116,116,116,116,116,116,116,116,116,116,116,116,116,116,116,116,8,Insecta,Hemiptera,P,Corixidae,
+404BFM006,404BFM006,Corixidae,,58,Corixidae,Non-Distinct,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,8,Insecta,Hemiptera,P,Corixidae,
+404BFM006,404BFM006,Cricotopus,,1,Orthocladiinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+404BFM006,404BFM006,Cyprididae,,2,Cyprididae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Ostracoda,Podocopida,CG,Cyprididae,
+404BFM006,404BFM006,Daphnia magna,,2,Daphnia,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Branchipoda,Cladocera,CF,Daphniidae,
+404BFM006,404BFM006,Dasyhelea,,1,Dasyhelea,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,CG,Ceratopogonidae,Dasyheleinae
+404BFM006,404BFM006,Dero,,4,Dero,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,10,Oligochaeta,Tubificida,CG,Naididae,
+404BFM006,404BFM006,Dicrotendipes,,3,Chironominae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+404BFM006,404BFM006,Hyalella,,54,Hyalella,Distinct,54,54,54,54,54,54,54,54,54,54,54,54,54,54,54,54,54,54,54,54,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+404BFM006,404BFM006,Macrocyclops albidus,,5,Macrocyclops,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404BFM006,404BFM006,Ostracoda,,200,Ostracoda,Non-Distinct,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,8,Ostracoda,,CG,,
+404BFM006,404BFM006,Physa,,2,Physa,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Gastropoda,Basommatophora,SC,Physidae,
+404BFM006,404BFM006,Simocephalus,,8,Simocephalus,Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,Branchipoda,Cladocera,CF,Daphniidae,
+404BFM006,404BFM006,Tanypus,,1,Tanypodinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Insecta,Diptera,P,Chironomidae,Tanypodinae
+404BFM006,404BFM006,Tubificidae,,10,Tubificidae,Distinct,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,Oligochaeta,Tubificida,CG,Tubificidae,
+404CRX000,404CRX000,Ceriodaphnia,,2,Ceriodaphnia,Distinct,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Branchiopoda,Cladocera,CF,Daphniidae,
+404CRX000,404CRX000,Chironomus,,4,Chironominae,Distinct,4,4,3,4,3,4,4,4,4,3,4,3,4,4,4,4,4,4,4,4,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+404CRX000,404CRX000,Leptodiaptomus siciloides,,2,Leptodiaptomus,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+404CRX000,404CRX000,Oligochaeta,Yes,8,Oligochaeta,Distinct,8,8,8,8,8,8,8,8,8,7,8,8,8,8,8,7,8,8,8,8,5,Oligochaeta,,CG,,
+404CRX000,404CRX000,Ostracoda,,495,Ostracoda,Distinct,484,484,485,484,485,485,484,484,484,486,484,485,484,484,484,485,484,484,484,484,8,Ostracoda,,CG,,
+404NFP000,404NFP000,Acanthocyclops einslei,,35,Acanthocyclops,Distinct,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404NFP000,404NFP000,Chironomus,,19,Chironominae,Distinct,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+404NFP000,404NFP000,Coenagrionidae,,9,Coenagrionidae,Distinct,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,Insecta,Odonata,P,Coenagrionidae,
+404NFP000,404NFP000,Corynoneura,,6,Orthocladiinae,Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+404NFP000,404NFP000,Cricotopus,,19,Orthocladiinae,Distinct,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+404NFP000,404NFP000,Dasyhelea,,2,Dasyhelea,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,Insecta,Diptera,CG,Ceratopogonidae,Dasyheleinae
+404NFP000,404NFP000,Dero,,45,Dero,Distinct,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,10,Oligochaeta,Tubificida,CG,Naididae,
+404NFP000,404NFP000,Dicrotendipes,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+404NFP000,404NFP000,Ephydridae,,2,Ephydridae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,Insecta,Diptera,CG,Ephydridae,
+404NFP000,404NFP000,Eucyclops elegans,,2,Eucyclops,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404NFP000,404NFP000,Ferrissia,,17,Ferrissia,Distinct,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,6,Gastropoda,Basommatophora,SC,Ancylidae,
+404NFP000,404NFP000,Hyalella,,29,Hyalella,Distinct,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+404NFP000,404NFP000,Hydra,,8,Hydra,Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,5,Hydrozoa,Hydroida,P,Hydridae,
+404NFP000,404NFP000,Macrocyclops albidus,,47,Macrocyclops,Distinct,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404NFP000,404NFP000,Mesocyclops edax,,18,Mesocyclops,Distinct,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404NFP000,404NFP000,Oligochaeta,Yes,9,Oligochaeta,Non-Distinct,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,5,Oligochaeta,,CG,,
+404NFP000,404NFP000,Ostracoda,,9,Ostracoda,Distinct,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,8,Ostracoda,,CG,,
+404NFP000,404NFP000,Physa,,20,Physa,Distinct,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,8,Gastropoda,Basommatophora,SC,Physidae,
+404NFP000,404NFP000,Piona,,1,Piona,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Arachnida,Trombidiformes,P,Pionidae,
+404NFP000,404NFP000,Simocephalus,,166,Simocephalus,Distinct,166,166,166,166,166,166,166,166,166,166,166,166,166,166,166,166,166,166,166,166,8,Branchipoda,Cladocera,CF,Daphniidae,
+404NFP000,404NFP000,Skistodiaptomus pallidus,,11,Skistodiaptomus,Distinct,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+404NFP000,404NFP000,Tubificidae,,13,Tubificidae,Distinct,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,10,Oligochaeta,Tubificida,CG,Tubificidae,
+404NFP000,404NFP000,Unionicolidae,,2,Unionicolidae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,Arachnida,Trombidiformes,P,Unionicolidae,
+404ZUN000,404ZUN000,Acanthocyclops trajani,,97,Acanthocyclops,Distinct,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+404ZUN000,404ZUN000,Ceriodaphnia,,358,Ceriodaphnia,Distinct,358,358,358,358,358,358,358,358,358,358,358,358,358,358,358,358,358,358,358,358,8,Branchiopoda,Cladocera,CF,Daphniidae,
+404ZUN000,404ZUN000,Chironomus,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+404ZUN000,404ZUN000,Ferrissia,,1,Ferrissia,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Gastropoda,Basommatophora,SC,Ancylidae,
+404ZUN000,404ZUN000,Leptodiaptomus siciloides,,6,Leptodiaptomus,Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+404ZUN000,404ZUN000,Notonecta,,2,Notonecta,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,Insecta,Hemiptera,P,Notonectidae,
+404ZUN000,404ZUN000,Oligochaeta,Yes,1,Oligochaeta,Non-Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Oligochaeta,,CG,,
+404ZUN000,404ZUN000,Ostracoda,,2,Ostracoda,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Ostracoda,,CG,,
+404ZUN000,404ZUN000,Paranais litoralis,,15,Paranais,Distinct,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,10,Oligochaeta,Tubificida,CG,Naididae,
+404ZUN000,404ZUN000,Piona,,1,Piona,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Arachnida,Trombidiformes,P,Pionidae,
+404ZUN000,404ZUN000,Sigara,,1,Sigara,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Hemiptera,P,Corixidae,
+404ZUN000,404ZUN000,Simocephalus,,9,Simocephalus,Distinct,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,8,Branchipoda,Cladocera,CF,Daphniidae,
+404ZUN000,404ZUN000,Tubificidae,,3,Tubificidae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,10,Oligochaeta,Tubificida,CG,Tubificidae,
+411HRL000,411HRL000,Acanthocyclops trajani,,5,Acanthocyclops,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+411HRL000,411HRL000,Alona,,1,Alona,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Branchipoda,Cladocera,CF,Chydoridae,
+411HRL000,411HRL000,Apedilum,,7,Chironominae,Distinct,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,Insecta,Diptera,CG,Chironomidae,Chironominae
+411HRL000,411HRL000,Chaetogaster diaphanus,,1,Chaetogaster,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Oligochaeta,Tubificida,CG,Naididae,
+411HRL000,411HRL000,Chironomus,,2,Chironominae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+411HRL000,411HRL000,Corisella decolor,,10,Corisella,Distinct,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,8,Insecta,Hemiptera,P,Corixidae,
+411HRL000,411HRL000,Corixidae,,62,Corixidae,Non-Distinct,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,8,Insecta,Hemiptera,P,Corixidae,
+411HRL000,411HRL000,Cricotopus,,13,Orthocladiinae,Distinct,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+411HRL000,411HRL000,Dero,,113,Dero,Distinct,113,113,113,113,113,113,113,113,113,113,113,113,113,113,113,113,113,113,113,113,10,Oligochaeta,Tubificida,CG,Naididae,
+411HRL000,411HRL000,Dicrotendipes,,32,Chironominae,Distinct,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+411HRL000,411HRL000,Ferrissia,,2,Ferrissia,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,Gastropoda,Basommatophora,SC,Ancylidae,
+411HRL000,411HRL000,Helisoma,,1,Helisoma,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Gastropoda,Basommatophora,SC,Planorbidae,
+411HRL000,411HRL000,Hyalella,,5,Hyalella,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+411HRL000,411HRL000,Ilyocryptus,,1,Ilyocryptus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Branchipoda,Cladocera,CG,Macrotrichidae,
+411HRL000,411HRL000,Macrocyclops albidus,,5,Macrocyclops,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+411HRL000,411HRL000,Oligochaeta,Yes,8,Oligochaeta,Non-Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,5,Oligochaeta,,CG,,
+411HRL000,411HRL000,Ostracoda,,11,Ostracoda,Distinct,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,8,Ostracoda,,CG,,
+411HRL000,411HRL000,Physa,,21,Physa,Distinct,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,8,Gastropoda,Basommatophora,SC,Physidae,
+411HRL000,411HRL000,Pristina leidyi,,5,Pristina,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,10,Oligochaeta,Tubificida,CG,Naididae,
+411HRL000,411HRL000,Procladius,,8,Tanypodinae,Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,9,Insecta,Diptera,P,Chironomidae,Tanypodinae
+411HRL000,411HRL000,Simocephalus,,149,Simocephalus,Distinct,149,149,149,149,149,149,149,149,149,149,149,149,149,149,149,149,149,149,149,149,8,Branchipoda,Cladocera,CF,Daphniidae,
+411HRL000,411HRL000,Slavina appendiculata,,4,Slavina,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,10,Oligochaeta,Tubificida,CG,Naididae,
+411HRL000,411HRL000,Tanytarsus,,5,Chironominae,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,Insecta,Diptera,CF,Chironomidae,Chironominae
+411HRL000,411HRL000,Tubificidae,,16,Tubificidae,Distinct,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,10,Oligochaeta,Tubificida,CG,Tubificidae,
+411MAD000,411MAD000,Acanthocyclops einslei,,7,Acanthocyclops,Distinct,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+411MAD000,411MAD000,Ceriodaphnia,,2,Ceriodaphnia,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Branchiopoda,Cladocera,CF,Daphniidae,
+411MAD000,411MAD000,Chironomus,,6,Chironominae,Distinct,6,6,6,6,6,6,5,6,6,6,6,6,6,6,6,6,6,6,6,6,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+411MAD000,411MAD000,Corisella decolor,,1,Corisella,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,8,Insecta,Hemiptera,P,Corixidae,
+411MAD000,411MAD000,Corixidae,,8,Corixidae,Non-Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,Insecta,Hemiptera,P,Corixidae,
+411MAD000,411MAD000,Cricotopus,,2,Orthocladiinae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+411MAD000,411MAD000,Daphnia ambigua,,179,Daphnia,Distinct,177,179,178,177,177,177,178,178,178,178,178,179,176,178,178,178,178,177,178,177,8,Branchipoda,Cladocera,CF,Daphniidae,
+411MAD000,411MAD000,Dero,,51,Dero,Distinct,51,50,51,51,50,51,51,50,49,51,51,50,51,51,51,51,51,51,50,50,10,Oligochaeta,Tubificida,CG,Naididae,
+411MAD000,411MAD000,Dicrotendipes,,5,Chironominae,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+411MAD000,411MAD000,Dytiscidae,Yes,1,Dytiscidae,Non-Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,P,Dytiscidae,
+411MAD000,411MAD000,Ferrissia,,2,Ferrissia,Distinct,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,Gastropoda,Basommatophora,SC,Ancylidae,
+411MAD000,411MAD000,Glossiphoniidae,,2,Glossiphoniidae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Hirudinea,Rhynchobdellida,P,Glossiphoniidae,
+411MAD000,411MAD000,Haliplus,,1,Haliplus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,MH,Haliplidae,
+411MAD000,411MAD000,Helisoma,,4,Helisoma,Distinct,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,6,Gastropoda,Basommatophora,SC,Planorbidae,
+411MAD000,411MAD000,Hyalella,,2,Hyalella,Distinct,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+411MAD000,411MAD000,Libellulidae,,1,Libellulidae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Odonata,P,Libellulidae,
+411MAD000,411MAD000,Oligochaeta,Yes,1,Oligochaeta,Non-Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Oligochaeta,,CG,,
+411MAD000,411MAD000,Oreodytes,,1,Oreodytes,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,P,Dytiscidae,Hydroporinae
+411MAD000,411MAD000,Ostracoda,,112,Ostracoda,Distinct,111,111,112,110,111,111,111,111,112,111,110,112,111,112,111,111,110,112,110,112,8,Ostracoda,,CG,,
+411MAD000,411MAD000,Physa,,23,Physa,Distinct,23,23,22,23,23,23,23,23,23,23,23,23,23,22,23,23,22,23,23,23,8,Gastropoda,Basommatophora,SC,Physidae,
+411MAD000,411MAD000,Simocephalus,,89,Simocephalus,Distinct,88,88,88,89,89,88,88,89,88,87,88,86,89,87,88,87,89,87,89,88,8,Branchipoda,Cladocera,CF,Daphniidae,
+411MAD000,411MAD000,Tropisternus,,2,Tropisternus,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,Insecta,Coleoptera,CG,Hydrophilidae,
+411MAD000,411MAD000,Tubificidae,,2,Tubificidae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801ITR000,801ITR000,Acanthocyclops einslei,,1,Acanthocyclops,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+801ITR000,801ITR000,Aulodrilus,,4,Aulodrilus,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801ITR000,801ITR000,Chaetogaster diaphanus,,2,Chaetogaster,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,Oligochaeta,Tubificida,CG,Naididae,
+801ITR000,801ITR000,Chironomus,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+801ITR000,801ITR000,Corisella decolor,,1,Corisella,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Hemiptera,P,Corixidae,
+801ITR000,801ITR000,Corixidae,,6,Corixidae,Non-Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,6,8,Insecta,Hemiptera,P,Corixidae,
+801ITR000,801ITR000,Cricotopus,,2,Orthocladiinae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+801ITR000,801ITR000,Dero,,11,Dero,Distinct,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,10,Oligochaeta,Tubificida,CG,Naididae,
+801ITR000,801ITR000,Dicrotendipes,,12,Chironominae,Distinct,12,12,12,11,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+801ITR000,801ITR000,Erpobdellidae,,3,Erpobdellidae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,8,Hirudinea,Arhynchobdellida,P,Erpobdellidae,
+801ITR000,801ITR000,Helobdella stagnalis,,3,Helobdella,Distinct,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Hirudinea,Rhynchobdellida,PA,Glossiphoniidae,
+801ITR000,801ITR000,Hyalella,,162,Hyalella,Distinct,160,161,160,162,162,162,162,160,160,162,161,162,161,162,161,161,161,162,162,160,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+801ITR000,801ITR000,Macrocyclops albidus,,1,Macrocyclops,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+801ITR000,801ITR000,Ostracoda,,215,Ostracoda,Distinct,215,214,215,214,214,213,213,215,215,214,215,213,215,213,215,214,215,214,213,215,8,Ostracoda,,CG,,
+801ITR000,801ITR000,Physa,,17,Physa,Distinct,17,17,17,17,17,17,17,17,17,17,17,17,16,17,17,17,17,17,17,17,8,Gastropoda,Basommatophora,SC,Physidae,
+801ITR000,801ITR000,Procladius,,1,Tanypodinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Diptera,P,Chironomidae,Tanypodinae
+801ITR000,801ITR000,Simocephalus,,8,Simocephalus,Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,Branchipoda,Cladocera,CF,Daphniidae,
+801ITR000,801ITR000,Tubificidae,Yes,6,Tubificidae,Non-Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801ITR000,801ITR000,Turbellaria,,46,Turbellaria,Distinct,46,46,46,46,46,46,46,46,46,45,45,46,46,46,45,46,46,46,46,46,4,Turbellaria,,P,,
+801LAG001,801LAG001,Ablabesmyia,,5,Tanypodinae,Distinct,5,5,5,5,5,5,4,5,5,5,5,5,5,4,5,5,5,5,5,5,8,Insecta,Diptera,CG,Chironomidae,Tanypodinae
+801LAG001,801LAG001,Aglaodiaptomus forbesi,,114,Aglaodiaptomus,Distinct,113,110,114,111,114,112,111,112,114,111,112,112,112,110,111,112,111,113,111,113,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+801LAG001,801LAG001,Alona,,5,Alona,Distinct,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,8,Branchipoda,Cladocera,CF,Chydoridae,
+801LAG001,801LAG001,Berosus,,1,Berosus,Distinct,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,P,Hydrophilidae,
+801LAG001,801LAG001,Bezzia/ Palpomyia,,1,Bezzia/ Palpomyia,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,P,Ceratopogonidae,Ceratopogoninae
+801LAG001,801LAG001,Callibaetis,,6,Callibaetis,Distinct,6,5,5,6,5,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,9,Insecta,Ephemeroptera,CG,Baetidae,
+801LAG001,801LAG001,Chironomus,,6,Chironominae,Distinct,6,6,6,6,6,6,6,6,6,5,6,5,5,6,6,6,6,6,6,6,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+801LAG001,801LAG001,Coenagrionidae,,6,Coenagrionidae,Non-Distinct,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,9,Insecta,Odonata,P,Coenagrionidae,
+801LAG001,801LAG001,Colymbetes,,2,Colymbetes,Distinct,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,5,Insecta,Coleoptera,P,Dytiscidae,Colymbetinae
+801LAG001,801LAG001,Corisella decolor,,15,Corisella,Distinct,14,15,14,14,15,15,15,14,14,15,15,14,15,15,15,15,15,15,14,14,8,Insecta,Hemiptera,P,Corixidae,
+801LAG001,801LAG001,Corixidae,,28,Corixidae,Non-Distinct,28,28,28,28,28,26,28,28,28,28,28,28,28,28,27,26,28,28,27,28,8,Insecta,Hemiptera,P,Corixidae,
+801LAG001,801LAG001,Cricotopus,,1,Orthocladiinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+801LAG001,801LAG001,Dasyhelea,,1,Dasyhelea,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,CG,Ceratopogonidae,Dasyheleinae
+801LAG001,801LAG001,Dero,,53,Dero,Distinct,53,51,53,52,53,51,53,52,53,53,53,52,51,51,53,53,53,53,52,53,10,Oligochaeta,Tubificida,CG,Naididae,
+801LAG001,801LAG001,Dicrotendipes,,3,Chironominae,Distinct,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,2,3,2,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+801LAG001,801LAG001,Helisoma,,1,Helisoma,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Gastropoda,Basommatophora,SC,Planorbidae,
+801LAG001,801LAG001,Helobdella stagnalis,,9,Helobdella,Distinct,9,9,9,8,9,9,8,8,9,8,9,9,9,9,9,8,9,9,9,9,6,Hirudinea,Rhynchobdellida,PA,Glossiphoniidae,
+801LAG001,801LAG001,Hyalella,,119,Hyalella,Distinct,116,118,116,118,115,118,118,117,114,118,115,118,116,118,117,116,114,115,116,118,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+801LAG001,801LAG001,Ischnura,,1,Ischnura,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Odonata,P,Coenagrionidae,
+801LAG001,801LAG001,Limnesia,,2,Limnesia,Distinct,2,2,2,2,2,2,2,2,1,1,1,2,2,2,2,2,2,2,2,2,5,Arachnida,Trombidiformes,P,Limnesiidae,
+801LAG001,801LAG001,Microcyclops rubellus,,1,Microcyclops,Distinct,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+801LAG001,801LAG001,Notonectidae,,1,Notonectidae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,NA,Insecta,Hemiptera,P,Notonectidae,
+801LAG001,801LAG001,Ostracoda,,20,Ostracoda,Distinct,20,20,18,20,19,20,20,20,20,20,20,20,19,19,20,20,20,19,20,20,8,Ostracoda,,CG,,
+801LAG001,801LAG001,Oxyethira,,1,Oxyethira,Distinct,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,3,Insecta,Trichoptera,PH,Hydroptilidae,
+801LAG001,801LAG001,Paratanytarsus,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,CF,Chironomidae,Chironominae
+801LAG001,801LAG001,Physa,,23,Physa,Distinct,22,23,23,22,23,23,23,23,22,23,23,22,23,23,22,23,23,22,23,23,8,Gastropoda,Basommatophora,SC,Physidae,
+801LAG001,801LAG001,Procladius,,2,Tanypodinae,Distinct,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,9,Insecta,Diptera,P,Chironomidae,Tanypodinae
+801LAG001,801LAG001,Psectrocladius,,1,Orthocladiinae,Distinct,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+801LAG001,801LAG001,Simocephalus,,66,Simocephalus,Distinct,65,65,65,65,66,64,65,66,66,65,66,65,66,66,64,65,65,66,66,62,8,Branchipoda,Cladocera,CF,Daphniidae,
+801LAG001,801LAG001,Tanytarsus,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,CF,Chironomidae,Chironominae
+801LAG001,801LAG001,Tubificidae,Yes,10,Tubificidae,Distinct,10,10,10,10,9,10,10,9,10,9,10,10,10,10,10,10,10,10,10,9,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801LAG001,801LAG001,Unionicolidae,,3,Unionicolidae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,Arachnida,Trombidiformes,P,Unionicolidae,
+801LAG002,801LAG002,Aglaodiaptomus forbesi,,131,Aglaodiaptomus,Distinct,124,126,126,128,129,126,125,128,129,128,126,129,128,126,128,129,128,128,130,129,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+801LAG002,801LAG002,Anax,,1,Anax,Distinct,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Odonata,P,Aeshnidae,
+801LAG002,801LAG002,Aulodrilus,,21,Aulodrilus,Distinct,20,20,21,19,21,20,19,21,20,21,21,21,20,20,21,20,20,20,19,20,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801LAG002,801LAG002,Bezzia/ Palpomyia,,2,Bezzia/ Palpomyia,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,6,Insecta,Diptera,P,Ceratopogonidae,Ceratopogoninae
+801LAG002,801LAG002,Buenoa,,8,Buenoa,Distinct,8,8,7,8,8,8,8,8,7,8,8,8,7,8,8,8,7,8,8,8,NA,Insecta,Hemiptera,P,Notonectidae,
+801LAG002,801LAG002,Callibaetis,,8,Callibaetis,Distinct,8,8,8,7,8,8,8,8,7,8,8,8,8,8,8,8,8,8,8,8,9,Insecta,Ephemeroptera,CG,Baetidae,
+801LAG002,801LAG002,Coenagrionidae,,55,Coenagrionidae,Non-Distinct,55,54,54,51,52,52,55,51,54,53,54,53,54,53,53,54,52,52,52,55,9,Insecta,Odonata,P,Coenagrionidae,
+801LAG002,801LAG002,Corisella decolor,,7,Corisella,Distinct,6,7,6,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7,8,Insecta,Hemiptera,P,Corixidae,
+801LAG002,801LAG002,Corixidae,,42,Corixidae,Non-Distinct,42,41,42,42,41,41,42,41,39,40,39,41,42,41,40,40,41,40,41,42,8,Insecta,Hemiptera,P,Corixidae,
+801LAG002,801LAG002,Cryptotendipes,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,CG,Chironomidae,Chironominae
+801LAG002,801LAG002,Dero,,14,Dero,Distinct,14,14,13,14,10,14,13,14,14,13,14,14,14,14,14,14,12,14,14,13,10,Oligochaeta,Tubificida,CG,Naididae,
+801LAG002,801LAG002,Dicrotendipes,,11,Chironominae,Distinct,11,11,11,11,11,10,11,10,11,11,11,10,11,11,10,9,11,11,11,11,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+801LAG002,801LAG002,Enochrus,,1,Enochrus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,MH,Hydrophilidae,
+801LAG002,801LAG002,Erpobdellidae,,1,Erpobdellidae,Distinct,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Hirudinea,Arhynchobdellida,P,Erpobdellidae,
+801LAG002,801LAG002,Helobdella,Yes,1,Helobdella,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Hirudinea,Rhynchobdellida,PA,Glossiphoniidae,
+801LAG002,801LAG002,Helobdella stagnalis,,12,Helobdella,Distinct,12,11,12,12,12,12,11,12,12,12,12,12,12,12,12,12,12,12,12,12,6,Hirudinea,Rhynchobdellida,PA,Glossiphoniidae,
+801LAG002,801LAG002,Hyalella,,108,Hyalella,Distinct,106,107,106,107,105,106,106,105,106,105,107,105,104,106,106,105,107,106,107,103,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+801LAG002,801LAG002,Hydrachna,,2,Hydrachna,Distinct,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,1,2,NA,Arachnida,Trombidiformes,P,Hydrachnidae,
+801LAG002,801LAG002,Hydrovatus,,2,Hydrovatus,Distinct,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,5,Insecta,Coleoptera,P,Dytiscidae,Hydroporinae
+801LAG002,801LAG002,Ischnura,,6,Ischnura,Distinct,6,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,4,9,Insecta,Odonata,P,Coenagrionidae,
+801LAG002,801LAG002,Ostracoda,,2,Ostracoda,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Ostracoda,,CG,,
+801LAG002,801LAG002,Oxyethira,,1,Oxyethira,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,Insecta,Trichoptera,PH,Hydroptilidae,
+801LAG002,801LAG002,Procladius,,6,Tanypodinae,Distinct,5,6,6,6,6,6,6,6,5,6,6,6,6,6,6,5,6,6,6,6,9,Insecta,Diptera,P,Chironomidae,Tanypodinae
+801LAG002,801LAG002,Simocephalus,,49,Simocephalus,Distinct,49,47,48,48,49,49,49,48,48,47,48,47,48,47,47,48,48,47,46,47,8,Branchipoda,Cladocera,CF,Daphniidae,
+801LAG002,801LAG002,Tanytarsus,,4,Chironominae,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,6,Insecta,Diptera,CF,Chironomidae,Chironominae
+801LAG002,801LAG002,Tropisternus,,1,Tropisternus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,CG,Hydrophilidae,
+801LAG002,801LAG002,Tubificidae,Yes,5,Tubificidae,Non-Distinct,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801LAG002,801LAG002,Unionicolidae,,9,Unionicolidae,Distinct,9,9,9,9,9,9,9,9,9,9,7,9,9,9,9,9,9,9,8,9,5,Arachnida,Trombidiformes,P,Unionicolidae,
+801LAG002,801LAG002,Zavrelimyia/ Paramerina,,2,Tanypodinae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,7,Insecta,Diptera,P,Chironomidae,Tanypodinae
+801LAG003,801LAG003,Ablabesmyia,,1,Tanypodinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Diptera,CG,Chironomidae,Tanypodinae
+801LAG003,801LAG003,Aglaodiaptomus forbesi,,70,Aglaodiaptomus,Distinct,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+801LAG003,801LAG003,Aulodrilus,,24,Aulodrilus,Distinct,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801LAG003,801LAG003,Bezzia/ Palpomyia,,2,Bezzia/ Palpomyia,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,Insecta,Diptera,P,Ceratopogonidae,Ceratopogoninae
+801LAG003,801LAG003,Callibaetis,,26,Callibaetis,Distinct,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,9,Insecta,Ephemeroptera,CG,Baetidae,
+801LAG003,801LAG003,Chironomus,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+801LAG003,801LAG003,Coenagrionidae,,19,Coenagrionidae,Non-Distinct,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,9,Insecta,Odonata,P,Coenagrionidae,
+801LAG003,801LAG003,Corisella decolor,,8,Corisella,Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,Insecta,Hemiptera,P,Corixidae,
+801LAG003,801LAG003,Corixidae,Yes,76,Corixidae,Non-Distinct,76,76,76,76,76,76,76,76,76,76,76,76,76,76,76,76,76,76,76,76,8,Insecta,Hemiptera,P,Corixidae,
+801LAG003,801LAG003,Corynoneura,,1,Orthocladiinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+801LAG003,801LAG003,Dero,,31,Dero,Distinct,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,10,Oligochaeta,Tubificida,CG,Naididae,
+801LAG003,801LAG003,Dicrotendipes,,1,Chironominae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+801LAG003,801LAG003,Erpobdellidae,,4,Erpobdellidae,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,8,Hirudinea,Arhynchobdellida,P,Erpobdellidae,
+801LAG003,801LAG003,Helobdella,Yes,1,Helobdella,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Hirudinea,Rhynchobdellida,PA,Glossiphoniidae,
+801LAG003,801LAG003,Helobdella stagnalis,,11,Helobdella,Distinct,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,6,Hirudinea,Rhynchobdellida,PA,Glossiphoniidae,
+801LAG003,801LAG003,Hyalella,,154,Hyalella,Distinct,154,154,154,154,154,154,154,154,154,154,154,154,154,154,154,154,154,154,154,154,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+801LAG003,801LAG003,Hydrachna,,1,Hydrachna,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,NA,Arachnida,Trombidiformes,P,Hydrachnidae,
+801LAG003,801LAG003,Ischnura,,4,Ischnura,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,9,Insecta,Odonata,P,Coenagrionidae,
+801LAG003,801LAG003,Ostracoda,,5,Ostracoda,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,8,Ostracoda,,CG,,
+801LAG003,801LAG003,Physa,,1,Physa,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Gastropoda,Basommatophora,SC,Physidae,
+801LAG003,801LAG003,Procladius,,5,Tanypodinae,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,9,Insecta,Diptera,P,Chironomidae,Tanypodinae
+801LAG003,801LAG003,Simocephalus,,9,Simocephalus,Distinct,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,8,Branchipoda,Cladocera,CF,Daphniidae,
+801LAG003,801LAG003,Tanytarsus,,3,Chironominae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Insecta,Diptera,CF,Chironomidae,Chironominae
+801LAG003,801LAG003,Tubificidae,Yes,16,Tubificidae,Non-Distinct,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801LAG003,801LAG003,Unionicolidae,,21,Unionicolidae,Distinct,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,5,Arachnida,Trombidiformes,P,Unionicolidae,
+801LAG004,801LAG004,Ablabesmyia,,3,Tanypodinae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,8,Insecta,Diptera,CG,Chironomidae,Tanypodinae
+801LAG004,801LAG004,Aglaodiaptomus forbesi,,65,Aglaodiaptomus,Distinct,65,65,65,65,65,65,65,65,65,65,65,65,65,65,65,65,65,65,65,65,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+801LAG004,801LAG004,Alona,,1,Alona,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Branchipoda,Cladocera,CF,Chydoridae,
+801LAG004,801LAG004,Anax,,2,Anax,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Insecta,Odonata,P,Aeshnidae,
+801LAG004,801LAG004,Aulodrilus,,6,Aulodrilus,Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801LAG004,801LAG004,Bezzia/ Palpomyia,,1,Bezzia/ Palpomyia,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,P,Ceratopogonidae,Ceratopogoninae
+801LAG004,801LAG004,Buenoa,,6,Buenoa,Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,NA,Insecta,Hemiptera,P,Notonectidae,
+801LAG004,801LAG004,Callibaetis,,12,Callibaetis,Distinct,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,9,Insecta,Ephemeroptera,CG,Baetidae,
+801LAG004,801LAG004,Chironomus,,11,Chironominae,Distinct,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+801LAG004,801LAG004,Coenagrionidae,,39,Coenagrionidae,Non-Distinct,39,39,39,39,39,39,39,39,39,39,39,39,39,39,39,39,39,39,39,39,9,Insecta,Odonata,P,Coenagrionidae,
+801LAG004,801LAG004,Corisella decolor,,15,Corisella,Distinct,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,8,Insecta,Hemiptera,P,Corixidae,
+801LAG004,801LAG004,Corixidae,,27,Corixidae,Non-Distinct,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,8,Insecta,Hemiptera,P,Corixidae,
+801LAG004,801LAG004,Cricotopus,,3,Orthocladiinae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+801LAG004,801LAG004,Dero,,15,Dero,Distinct,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,10,Oligochaeta,Tubificida,CG,Naididae,
+801LAG004,801LAG004,Dicrotendipes,,5,Chironominae,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+801LAG004,801LAG004,Enallagma,,1,Enallagma,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Odonata,P,Coenagrionidae,
+801LAG004,801LAG004,Erpobdellidae,,1,Erpobdellidae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Hirudinea,Arhynchobdellida,P,Erpobdellidae,
+801LAG004,801LAG004,Helobdella stagnalis,,8,Helobdella,Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,6,Hirudinea,Rhynchobdellida,PA,Glossiphoniidae,
+801LAG004,801LAG004,Hyalella,,181,Hyalella,Distinct,181,181,181,181,181,181,181,181,181,181,181,181,181,181,181,181,181,181,181,181,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+801LAG004,801LAG004,Hydrovatus,,1,Hydrovatus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,P,Dytiscidae,Hydroporinae
+801LAG004,801LAG004,Ischnura,,10,Ischnura,Distinct,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,9,Insecta,Odonata,P,Coenagrionidae,
+801LAG004,801LAG004,Ostracoda,,6,Ostracoda,Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,8,Ostracoda,,CG,,
+801LAG004,801LAG004,Parachironomus,,3,Chironominae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,10,Insecta,Diptera,P,Chironomidae,Chironominae
+801LAG004,801LAG004,Simocephalus,,24,Simocephalus,Distinct,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,8,Branchipoda,Cladocera,CF,Daphniidae,
+801LAG004,801LAG004,Tanytarsus,,9,Chironominae,Distinct,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,6,Insecta,Diptera,CF,Chironomidae,Chironominae
+801LAG004,801LAG004,Tramea,,1,Tramea,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Odonata,P,Libellulidae,
+801LAG004,801LAG004,Tubificidae,Yes,32,Tubificidae,Non-Distinct,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,10,Oligochaeta,Tubificida,CG,Tubificidae,
+801LAG004,801LAG004,Unionicolidae,,1,Unionicolidae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Arachnida,Trombidiformes,P,Unionicolidae,
+802MUR000,802MUR000,Acanthocyclops trajani,,14,Acanthocyclops,Distinct,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+802MUR000,802MUR000,Calanoida,,1,,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Maxillopoda,Calanoida,,,
+802MUR000,802MUR000,Callibaetis,,1,Callibaetis,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Ephemeroptera,CG,Baetidae,
+802MUR000,802MUR000,Ceriodaphnia,,77,Ceriodaphnia,Distinct,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,8,Branchiopoda,Cladocera,CF,Daphniidae,
+802MUR000,802MUR000,Chironomus,,58,Chironominae,Distinct,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+802MUR000,802MUR000,Colymbetes,,2,Colymbetes,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,Insecta,Coleoptera,P,Dytiscidae,Colymbetinae
+802MUR000,802MUR000,Corynoneura,,1,Orthocladiinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+802MUR000,802MUR000,Cricotopus,,8,Orthocladiinae,Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+802MUR000,802MUR000,Dytiscidae,Yes,1,Dytiscidae,Non-Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,P,Dytiscidae,
+802MUR000,802MUR000,Enochrus,,4,Enochrus,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,Insecta,Coleoptera,MH,Hydrophilidae,
+802MUR000,802MUR000,Ischnura,,4,Ischnura,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,9,Insecta,Odonata,P,Coenagrionidae,
+802MUR000,802MUR000,Laccophilus,,1,Laccophilus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,P,Dytiscidae,Laccophilinae
+802MUR000,802MUR000,Ostracoda,,7,Ostracoda,Distinct,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,Ostracoda,,CG,,
+802MUR000,802MUR000,Physa,,315,Physa,Distinct,315,315,315,315,315,315,315,315,315,315,315,315,315,315,315,315,315,315,315,315,8,Gastropoda,Basommatophora,SC,Physidae,
+802MUR000,802MUR000,Unionicolidae,,1,Unionicolidae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Arachnida,Trombidiformes,P,Unionicolidae,
+903FOS000,903FOS000,Acanthocyclops trajani,,13,Acanthocyclops,Distinct,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+903FOS000,903FOS000,Arctodiaptomus dorsalis,,2,Arctodiaptomus,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+903FOS000,903FOS000,Berosus,,1,Berosus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,P,Hydrophilidae,
+903FOS000,903FOS000,Corisella decolor,,1,Corisella,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Hemiptera,P,Corixidae,
+903FOS000,903FOS000,Corixidae,,22,Corixidae,Non-Distinct,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,8,Insecta,Hemiptera,P,Corixidae,
+903FOS000,903FOS000,Daphnia,,392,Daphniidae,Non-Distinct,392,392,392,392,392,392,392,392,392,392,392,392,392,392,392,392,392,392,392,392,8,Malacostraca,Cladocera,CF,Daphniidae,
+903FOS000,903FOS000,Dero,,4,Dero,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,10,Oligochaeta,Tubificida,CG,Naididae,
+903FOS000,903FOS000,Eucyclops elegans,,4,Eucyclops,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+903FOS000,903FOS000,Leptodiaptomus siciloides,,4,Leptodiaptomus,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+903FOS000,903FOS000,Macrocyclops albidus,,4,Macrocyclops,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+903FOS000,903FOS000,Ostracoda,,27,Ostracoda,Distinct,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,27,8,Ostracoda,,CG,,
+903FOS000,903FOS000,Simocephalus,,8,Simocephalus,Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,Branchipoda,Cladocera,CF,Daphniidae,
+903FOS000,903FOS000,Trichocorixa,,4,Trichocorixa,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,8,Insecta,Hemiptera,P,Corixidae,
+903FOS000,903FOS000,Tubificidae,,5,Tubificidae,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,10,Oligochaeta,Tubificida,CG,Tubificidae,
+903GJL000,903GJL000,Acanthocyclops trajani,,80,Acanthocyclops,Distinct,77,80,80,80,78,77,78,80,80,80,78,78,80,78,77,79,79,78,79,78,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+903GJL000,903GJL000,Alona,,1,Alona,Distinct,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,8,Branchipoda,Cladocera,CF,Chydoridae,
+903GJL000,903GJL000,Ceriodaphnia,,206,Ceriodaphnia,Distinct,204,202,203,198,199,200,201,202,200,200,204,200,201,203,202,201,199,198,200,198,8,Branchiopoda,Cladocera,CF,Daphniidae,
+903GJL000,903GJL000,Chironomus,,4,Chironominae,Distinct,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,4,4,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+903GJL000,903GJL000,Corixidae,,5,Corixidae,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,8,Insecta,Hemiptera,P,Corixidae,
+903GJL000,903GJL000,Dero,,12,Dero,Distinct,12,11,12,12,12,12,12,12,12,10,11,12,12,11,12,12,12,12,11,12,10,Oligochaeta,Tubificida,CG,Naididae,
+903GJL000,903GJL000,Dicrotendipes,,6,Chironominae,Distinct,6,6,6,6,6,6,6,6,6,6,6,5,6,5,6,6,6,5,6,6,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+903GJL000,903GJL000,Ferrissia,,1,Ferrissia,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Gastropoda,Basommatophora,SC,Ancylidae,
+903GJL000,903GJL000,Hyalella,,91,Hyalella,Distinct,89,88,86,88,90,89,91,86,89,89,89,90,86,87,87,89,91,91,90,90,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+903GJL000,903GJL000,Leptodiaptomus siciloides,,82,Leptodiaptomus,Distinct,81,78,80,81,80,81,79,81,79,81,80,80,80,82,81,78,80,81,80,81,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+903GJL000,903GJL000,Limnophyes,,1,Orthocladiinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+903GJL000,903GJL000,Ostracoda,,2,Ostracoda,Distinct,1,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,8,Ostracoda,,CG,,
+903GJL000,903GJL000,Parachironomus,,1,Chironominae,Distinct,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Insecta,Diptera,P,Chironomidae,Chironominae
+903GJL000,903GJL000,Simocephalus,,18,Simocephalus,Distinct,16,18,18,18,18,18,17,17,18,18,16,18,18,17,18,18,16,18,17,18,8,Branchipoda,Cladocera,CF,Daphniidae,
+903GJL000,903GJL000,Tubificidae,,2,Tubificidae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,Oligochaeta,Tubificida,CG,Tubificidae,
+904AHC000,904AHC000,Ablabesmyia,,2,Tanypodinae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Insecta,Diptera,CG,Chironomidae,Tanypodinae
+904AHC000,904AHC000,Aeshnidae,,3,Aeshnidae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,Insecta,Odonata,P,Aeshnidae,
+904AHC000,904AHC000,Berosus,,2,Berosus,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,Insecta,Coleoptera,P,Hydrophilidae,
+904AHC000,904AHC000,Buenoa,,10,Buenoa,Distinct,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,NA,Insecta,Hemiptera,P,Notonectidae,
+904AHC000,904AHC000,Callibaetis,,3,Callibaetis,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,9,Insecta,Ephemeroptera,CG,Baetidae,
+904AHC000,904AHC000,Chironomus,,2,Chironominae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+904AHC000,904AHC000,Corixidae,,7,Corixidae,Non-Distinct,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,Insecta,Hemiptera,P,Corixidae,
+904AHC000,904AHC000,Dero,,8,Dero,Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,10,Oligochaeta,Tubificida,CG,Naididae,
+904AHC000,904AHC000,Dicrotendipes,,6,Chironominae,Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+904AHC000,904AHC000,Helisoma,,1,Helisoma,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Gastropoda,Basommatophora,SC,Planorbidae,
+904AHC000,904AHC000,Hesperocorixa,,3,Hesperocorixa,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,8,Insecta,Hemiptera,P,Corixidae,
+904AHC000,904AHC000,Hyalella,,390,Hyalella,Distinct,390,390,390,390,390,390,390,390,390,390,390,390,390,390,390,390,390,390,390,390,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+904AHC000,904AHC000,Hydra,,5,Hydra,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Hydrozoa,Hydroida,P,Hydridae,
+904AHC000,904AHC000,Hydrachna,,3,Hydrachna,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,NA,Arachnida,Trombidiformes,P,Hydrachnidae,
+904AHC000,904AHC000,Ischnura,,5,Ischnura,Distinct,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,9,Insecta,Odonata,P,Coenagrionidae,
+904AHC000,904AHC000,Ostracoda,,1,Ostracoda,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Ostracoda,,CG,,
+904AHC000,904AHC000,Peltodytes,,1,Peltodytes,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,MH,Haliplidae,
+904AHC000,904AHC000,Physa,,33,Physa,Distinct,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,8,Gastropoda,Basommatophora,SC,Physidae,
+904AHC000,904AHC000,Piona,,1,Piona,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Arachnida,Trombidiformes,P,Pionidae,
+904AHC000,904AHC000,Procladius,,1,Tanypodinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Diptera,P,Chironomidae,Tanypodinae
+904AHC000,904AHC000,Simocephalus,,7,Simocephalus,Distinct,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,Branchipoda,Cladocera,CF,Daphniidae,
+904AHC000,904AHC000,Tanytarsus,,2,Chironominae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,Insecta,Diptera,CF,Chironomidae,Chironominae
+904AHC000,904AHC000,Tubificidae,,2,Tubificidae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,Oligochaeta,Tubificida,CG,Tubificidae,
+904PAR000,904PAR000,Acanthocyclops trajani,,11,Acanthocyclops,Distinct,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+904PAR000,904PAR000,Buenoa,,1,Buenoa,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,NA,Insecta,Hemiptera,P,Notonectidae,
+904PAR000,904PAR000,Callibaetis,,7,Callibaetis,Distinct,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,9,Insecta,Ephemeroptera,CG,Baetidae,
+904PAR000,904PAR000,Ceriodaphnia,,78,Ceriodaphnia,Distinct,78,78,78,78,78,78,78,78,78,78,78,78,78,78,78,78,78,78,78,78,8,Branchiopoda,Cladocera,CF,Daphniidae,
+904PAR000,904PAR000,Chironomus,,101,Chironominae,Distinct,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+904PAR000,904PAR000,Colymbetes,,7,Colymbetes,Distinct,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,5,Insecta,Coleoptera,P,Dytiscidae,Colymbetinae
+904PAR000,904PAR000,Culicidae,,1,Culicidae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Diptera,CG,Culicidae,
+904PAR000,904PAR000,Dasyhelea,,3,Dasyhelea,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Insecta,Diptera,CG,Ceratopogonidae,Dasyheleinae
+904PAR000,904PAR000,Dero,,26,Dero,Distinct,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,10,Oligochaeta,Tubificida,CG,Naididae,
+904PAR000,904PAR000,Dicrotendipes,,2,Chironominae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+904PAR000,904PAR000,Dytiscidae,,4,Dytiscidae,Non-Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,Insecta,Coleoptera,P,Dytiscidae,
+904PAR000,904PAR000,Hyalella,,75,Hyalella,Distinct,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+904PAR000,904PAR000,Laccophilus,,2,Laccophilus,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,Insecta,Coleoptera,P,Dytiscidae,Laccophilinae
+904PAR000,904PAR000,Leptodiaptomus siciloides,,15,Leptodiaptomus,Distinct,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+904PAR000,904PAR000,Limnodrilus hoffmeisteri,,1,Limnodrilus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Oligochaeta,Tubificida,CG,Tubificidae,
+904PAR000,904PAR000,Notonecta,,1,Notonecta,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Insecta,Hemiptera,P,Notonectidae,
+904PAR000,904PAR000,Notonectidae,,6,Notonectidae,Non-Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,NA,Insecta,Hemiptera,P,Notonectidae,
+904PAR000,904PAR000,Oreodytes,,6,Oreodytes,Distinct,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,Insecta,Coleoptera,P,Dytiscidae,Hydroporinae
+904PAR000,904PAR000,Ostracoda,,25,Ostracoda,Distinct,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,8,Ostracoda,,CG,,
+904PAR000,904PAR000,Physa,,36,Physa,Distinct,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,8,Gastropoda,Basommatophora,SC,Physidae,
+904PAR000,904PAR000,Simocephalus,,22,Simocephalus,Distinct,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,8,Branchipoda,Cladocera,CF,Daphniidae,
+904PAR000,904PAR000,Sphaeromias,,1,Sphaeromias,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,P,Ceratopogonidae,Ceratopogoninae
+904PAR000,904PAR000,Tanypus,,1,Tanypodinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Insecta,Diptera,P,Chironomidae,Tanypodinae
+904PAR000,904PAR000,Tropisternus,,1,Tropisternus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Insecta,Coleoptera,CG,Hydrophilidae,
+904PAR000,904PAR000,Tubificidae,,22,Tubificidae,Non-Distinct,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,10,Oligochaeta,Tubificida,CG,Tubificidae,
+907SDR000,907SDR000,Acanthocyclops trajani,,2,Acanthocyclops,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+907SDR000,907SDR000,Anopheles,,1,Anopheles,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,8,Insecta,Diptera,CG,Culicidae,
+907SDR000,907SDR000,Aulodrilus,,1,Aulodrilus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Oligochaeta,Tubificida,CG,Tubificidae,
+907SDR000,907SDR000,Caloparyphus/ Euparyphus,,1,Caloparyphus/ Euparyphus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Diptera,CG,Stratiomyidae,
+907SDR000,907SDR000,Chironomus,,21,Chironominae,Distinct,21,21,20,21,20,19,21,20,21,21,21,21,21,20,20,20,20,21,21,21,10,Insecta,Diptera,CG,Chironomidae,Chironominae
+907SDR000,907SDR000,Coenagrionidae,,81,Coenagrionidae,Non-Distinct,81,81,80,81,79,80,79,81,77,79,81,78,81,80,80,80,79,80,79,81,9,Insecta,Odonata,P,Coenagrionidae,
+907SDR000,907SDR000,Cricotopus,,3,Orthocladiinae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+907SDR000,907SDR000,Culicidae,,1,Culicidae,Non-Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,8,Insecta,Diptera,CG,Culicidae,
+907SDR000,907SDR000,Dasyhelea,,1,Dasyhelea,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,CG,Ceratopogonidae,Dasyheleinae
+907SDR000,907SDR000,Dero,,110,Dero,Distinct,109,108,110,109,109,109,107,109,110,108,110,109,110,109,109,109,109,108,110,106,10,Oligochaeta,Tubificida,CG,Naididae,
+907SDR000,907SDR000,Dicrotendipes,,7,Chironominae,Distinct,6,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7,8,Insecta,Diptera,CG,Chironomidae,Chironominae
+907SDR000,907SDR000,Ectocyclops phaleratus,,2,Ectocyclops,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+907SDR000,907SDR000,Enochrus,,3,Enochrus,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,Insecta,Coleoptera,MH,Hydrophilidae,
+907SDR000,907SDR000,Ephydridae,,2,Ephydridae,Distinct,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,Insecta,Diptera,CG,Ephydridae,
+907SDR000,907SDR000,Ferrissia,,1,Ferrissia,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Gastropoda,Basommatophora,SC,Ancylidae,
+907SDR000,907SDR000,Haemonais waldvogeli,,41,Haemonais,Distinct,41,41,39,41,40,41,41,39,41,40,40,40,40,41,41,41,41,41,41,41,10,Oligochaeta,Tubificida,CG,Naididae,
+907SDR000,907SDR000,Helobdella,,1,Helobdella,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Hirudinea,Rhynchobdellida,PA,Glossiphoniidae,
+907SDR000,907SDR000,Hyalella,,58,Hyalella,Distinct,58,58,58,57,58,58,57,58,58,57,56,58,57,57,58,57,57,58,57,56,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+907SDR000,907SDR000,Ischnura,,36,Ischnura,Distinct,35,35,36,35,36,35,36,36,36,36,35,36,35,36,36,36,36,36,36,36,9,Insecta,Odonata,P,Coenagrionidae,
+907SDR000,907SDR000,Limnodrilus hoffmeisteri,,1,Limnodrilus,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Oligochaeta,Tubificida,CG,Tubificidae,
+907SDR000,907SDR000,Limnophyes,,1,Orthocladiinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+907SDR000,907SDR000,Macrocyclops albidus,,32,Macrocyclops,Distinct,32,30,32,30,32,32,32,32,31,32,32,32,32,32,31,32,32,32,32,32,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+907SDR000,907SDR000,Ostracoda,,3,Ostracoda,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,8,Ostracoda,,CG,,
+907SDR000,907SDR000,Paraphaenocladius,,1,Orthocladiinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,Insecta,Diptera,CG,Chironomidae,Orthocladiinae
+907SDR000,907SDR000,Physa,,14,Physa,Distinct,13,14,14,14,13,14,14,14,13,14,14,14,14,13,14,14,13,13,14,14,8,Gastropoda,Basommatophora,SC,Physidae,
+907SDR000,907SDR000,Pristina leidyi,,2,Pristina,Distinct,2,2,1,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,10,Oligochaeta,Tubificida,CG,Naididae,
+907SDR000,907SDR000,Procladius,,1,Tanypodinae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Diptera,P,Chironomidae,Tanypodinae
+907SDR000,907SDR000,Prostoma,,3,Prostoma,Distinct,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,2,3,8,Enopla,Hoplonemertea,P,Tetrastemmatidae,
+907SDR000,907SDR000,Scirtidae,,1,Scirtidae,Distinct,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,NA,Insecta,Coleoptera,SC,Scirtidae,
+907SDR000,907SDR000,Simocephalus,,21,Simocephalus,Distinct,21,21,21,21,21,21,21,20,21,21,21,21,21,21,20,20,21,21,21,21,8,Branchipoda,Cladocera,CF,Daphniidae,
+907SDR000,907SDR000,Sphaeromias,,1,Sphaeromias,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,Insecta,Diptera,P,Ceratopogonidae,Ceratopogoninae
+907SDR000,907SDR000,Syrphidae,,1,Syrphidae,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,Insecta,Diptera,CG,Syrphidae,
+907SDR000,907SDR000,Tanypus,,3,Tanypodinae,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,10,Insecta,Diptera,P,Chironomidae,Tanypodinae
+907SDR000,907SDR000,Tipulidae,,2,Tipulidae,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,Insecta,Diptera,SH,Tipulidae,
+907SDR000,907SDR000,Tramea,,10,Tramea,Distinct,9,10,10,10,10,10,10,10,10,10,10,9,10,10,10,10,10,9,10,10,9,Insecta,Odonata,P,Libellulidae,
+907SDR000,907SDR000,Tubificidae,,36,Tubificidae,Non-Distinct,36,35,35,35,36,35,36,36,36,36,35,36,35,35,35,35,36,36,35,36,10,Oligochaeta,Tubificida,CG,Tubificidae,
+911DMP000,911DMP000,Acanthocyclops trajani,,4,Acanthocyclops,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+911DMP000,911DMP000,Arctodiaptomus dorsalis,,2,Arctodiaptomus,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Maxillopoda,Calanoida,CF,Diaptomidae,
+911DMP000,911DMP000,Aulodrilus,,2,Aulodrilus,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,Oligochaeta,Tubificida,CG,Tubificidae,
+911DMP000,911DMP000,Buenoa,,9,Buenoa,Distinct,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,NA,Insecta,Hemiptera,P,Notonectidae,
+911DMP000,911DMP000,Corisella decolor,,2,Corisella,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,Insecta,Hemiptera,P,Corixidae,
+911DMP000,911DMP000,Corixidae,,17,Corixidae,Non-Distinct,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,8,Insecta,Hemiptera,P,Corixidae,
+911DMP000,911DMP000,Daphnia pulex,,229,Daphnia,Distinct,229,229,229,229,229,229,229,229,229,229,229,229,229,229,229,229,229,229,229,229,8,Branchipoda,Cladocera,CF,Daphniidae,
+911DMP000,911DMP000,Dero,,29,Dero,Distinct,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,10,Oligochaeta,Tubificida,CG,Naididae,
+911DMP000,911DMP000,Enallagma,,1,Enallagma,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,Insecta,Odonata,P,Coenagrionidae,
+911DMP000,911DMP000,Helisoma,,2,Helisoma,Distinct,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,Gastropoda,Basommatophora,SC,Planorbidae,
+911DMP000,911DMP000,Helobdella stagnalis,,3,Helobdella,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Hirudinea,Rhynchobdellida,PA,Glossiphoniidae,
+911DMP000,911DMP000,Hyalella,,130,Hyalella,Distinct,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,8,Malacostraca,Amphipoda,CG,Hyalellidae,
+911DMP000,911DMP000,Macrocyclops albidus,,3,Macrocyclops,Distinct,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,8,Maxillopoda,Calanoida,CG,Cyclopidae,
+911DMP000,911DMP000,Piona,,7,Piona,Distinct,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,5,Arachnida,Trombidiformes,P,Pionidae,
+911DMP000,911DMP000,Simocephalus,,33,Simocephalus,Distinct,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,8,Branchipoda,Cladocera,CF,Daphniidae,
+911DMP000,911DMP000,Trichocorixa,,1,Trichocorixa,Distinct,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,Insecta,Hemiptera,P,Corixidae,
+911DMP000,911DMP000,Tubificidae,,8,Tubificidae,Non-Distinct,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,10,Oligochaeta,Tubificida,CG,Tubificidae,
+911DMP000,911DMP000,Turbellaria,,4,Turbellaria,Distinct,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Turbellaria,,P,,
